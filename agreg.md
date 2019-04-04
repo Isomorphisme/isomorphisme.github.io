@@ -3,7 +3,12 @@ layout: page
 permalink: /agreg/
 ---
 
+# Devs
+
 # MG
+
+**102 Groupe des nombres complexes de module 1. Sous-groupes des racines de
+l'unité. Applications.**
 
 **103  Exemples de sous-groupes distingués et de groupes quotients. Applications.**
 
@@ -30,6 +35,14 @@ GL(E). Applications.**
 
 * Aut(Z/nZ) (Perrin)
 * Frobenius-Zolotarev (Zavidovique)
+
+**121 Nombres premiers. Applications.**
+
+**122 Anneaux principaux. Applications.**
+
+**123 Corps finis. Applications.**
+
+**125 Extensions de corps. Exemples et applications.**
 
 **126 Exemples d’équations en arithmétique.**
 
@@ -63,6 +76,10 @@ d’un espace vectoriel de dimension finie. Applications.**
 * Topologie des classes de similitude (FGN, Alg2)
 * Décomposition polaire (H2G2, Tome 1)
 
+**156 Exponentielle de matrices. Applications.**
+
+**157 Endomorphismes trigonalisables. Endomorphismes nilpotents.**
+
 **158 Matrices symétriques réelles, matrices hermitiennes.**
 
 **159 Formes linéaires et dualité en dimension finie. Exemples et applications.**
@@ -72,10 +89,13 @@ d’un espace vectoriel de dimension finie. Applications.**
 * Cellules de la Grassmannienne (H2G2, Tome 1)
 * Générateurs de GLn, SLn (FGN, Alg 2) 
 
-
 **181 Barycentres dans un espace affine réel de dimension finie, convexité. Applications.**
 
+**183 Utilisation des groupes en géométrie.**
+
 # AP
+
+**201 Espaces de fonctions. Exemples et applications.**
 
 **204 Connexité. Exemples et applications.**
 
@@ -95,6 +115,9 @@ d’un espace vectoriel de dimension finie. Applications.**
 
 * Proj sur convexe fermé (Brezis)
 * Bergman (Bayen Margaria)
+
+**214 Théorème d’inversion locale, théorème des fonctions implicites. Exemples et
+applications en analyse et en géométrie.**
 
 **215 Applications différentiables définies sur un ouvert de Rn. Exemples et applications.**
 
@@ -118,6 +141,8 @@ dimension 1 et 2.**
 * Translatés de C(R,R) (FGN Alg 1)
 
 **222 Exemples d’équations aux dérivées partielles linéaires.**
+
+**224 Exemples de développements asymptotiques de suites et de fonctions.**
 
 **228 Continuité et dérivabilité des fonctions réelles d’une variable réelle. Exemples et applications.**
 
@@ -160,6 +185,8 @@ applications.**
 * Inégalité isopérimétrique (Queffelec-Zuily)
 * Banach Steinhaus et Fourier (Rudin)
 
+**250 Transformation de Fourier. Applications.**
+
 **260 Espérance, variance et moments d’une variable aléatoire.**
 
 * Fct caract des moments (Ouvrard 2)
@@ -180,3 +207,5 @@ et applications.**
 
 * Bernstein (Ouvrard 1)
 * Galton-Watson (Appel)
+
+**265 Exemples d'études et d'applications de fonctions usuelles et spéciales**
