@@ -46,6 +46,8 @@ GL(E). Applications.**
 
 **126 Exemples d’équations en arithmétique.**
 
+* Chevalley-Warning (Zavidovique)
+
 **141 Polynômes irréductibles à une indéterminée. Corps de rupture. Exemples et
 applications.**
 
@@ -59,6 +61,7 @@ Rang. Exemples et applications.**
 
 * Berlekamp (Objectif agreg)
 * Invariants de similitude (Gourdon)
+* Theoreme de Molien (Leichtnam)
 
 **153 Polynômes d’endomorphisme en dimension finie. Réduction d’un endomorphisme en dimension finie. Applications.**
 
@@ -70,6 +73,7 @@ d’un espace vectoriel de dimension finie. Applications.**
 
 * Invariants de similitude (Gourdon)
 * Table de S4 (Peyré)
+* Theoreme de Molien (Leichtnam)
 
 **155 Endomorphismes diagonalisables en dimension finie.**
 
@@ -93,9 +97,14 @@ d’un espace vectoriel de dimension finie. Applications.**
 
 **183 Utilisation des groupes en géométrie.**
 
+* Grp d'iso de polyèdres (H2G2, Tome 1)
+
 # AP
 
 **201 Espaces de fonctions. Exemples et applications.**
+
+* Gelfand-Kolmogorov (Gonnord-Tosel + freestyle)
+* Riesz-Fischer (Rudin)
 
 **204 Connexité. Exemples et applications.**
 
@@ -118,6 +127,8 @@ d’un espace vectoriel de dimension finie. Applications.**
 
 **214 Théorème d’inversion locale, théorème des fonctions implicites. Exemples et
 applications en analyse et en géométrie.**
+
+* Lemme de Morse (Rouviere)
 
 **215 Applications différentiables définies sur un ouvert de Rn. Exemples et applications.**
 
@@ -161,6 +172,9 @@ recherche de vecteurs propres, exemples.**
 * QR/Choleski (Serre)
 
 **234 Fonctions et espaces de fonctions Lebesgue-intégrables.**
+
+* Riesz-Fischer (Rudin)
+* Riesz-Frechet-Kolmogorov (Brezis)
 
 **239 Fonctions définies par une intégrale dépendant d’un paramètre. Exemples et
 applications.**
