@@ -7,8 +7,16 @@ permalink: /agreg/
 
 # MG
 
+**101 Groupe opérant sur un ensemble. Exemples et applications.**
+
+* Grp d'iso de polyèdres (H2G2, Tome 1)
+* Isomorphisme de groupes de Lie via action sur l'algebre de Lie (H2G2)
+
 **102 Groupe des nombres complexes de module 1. Sous-groupes des racines de
 l'unité. Applications.**
+
+* FFT
+* Table de caracteres de D_n (JP Serre)
 
 **103  Exemples de sous-groupes distingués et de groupes quotients. Applications.**
 
@@ -25,6 +33,7 @@ GL(E). Applications.**
 
 * Frobenius-Zolotarev (Objectif agreg)
 * Décomposition polaire (H2G2, Tome 1)
+* Isomorphisme de groupes de Lie via action sur l'algebre de Lie (H2G2)
 
 **108 Exemples de parties génératrices d’un groupe. Applications.**
 
@@ -38,7 +47,11 @@ GL(E). Applications.**
 
 **121 Nombres premiers. Applications.**
 
+* Theoreme des deux carres (Perrin)
+
 **122 Anneaux principaux. Applications.**
+
+* Theoreme des deux carres (Perrin)
 
 **123 Corps finis. Applications.**
 
@@ -47,6 +60,7 @@ GL(E). Applications.**
 **126 Exemples d’équations en arithmétique.**
 
 * Chevalley-Warning (Zavidovique)
+* Theoreme des deux carres (Perrin)
 
 **141 Polynômes irréductibles à une indéterminée. Corps de rupture. Exemples et
 applications.**
@@ -56,12 +70,19 @@ applications.**
 
 **150 Exemples d’actions de groupes sur les espaces de matrices.**
 
+* Topologie des classes de similitude (FGN, Alg 2)
+* Isomorphisme de groupes de Lie via action sur l'algebre de Lie (H2G2)
+
 **151 Dimension d’un espace vectoriel (on se limitera au cas de la dimension finie).
 Rang. Exemples et applications.**
 
 * Berlekamp (Objectif agreg)
 * Invariants de similitude (Gourdon)
 * Theoreme de Molien (Leichtnam)
+
+** 152 Déterminant. Exemples et applications**
+
+* Suite de polygones (à voir ? pas de ref...)
 
 **153 Polynômes d’endomorphisme en dimension finie. Réduction d’un endomorphisme en dimension finie. Applications.**
 
@@ -84,6 +105,8 @@ d’un espace vectoriel de dimension finie. Applications.**
 
 **157 Endomorphismes trigonalisables. Endomorphismes nilpotents.**
 
+* Matrice nilpotentes, tableaux de Young (H2G2)
+
 **158 Matrices symétriques réelles, matrices hermitiennes.**
 
 **159 Formes linéaires et dualité en dimension finie. Exemples et applications.**
@@ -95,9 +118,12 @@ d’un espace vectoriel de dimension finie. Applications.**
 
 **181 Barycentres dans un espace affine réel de dimension finie, convexité. Applications.**
 
+* Suite de polygones (pas de ref...)
+
 **183 Utilisation des groupes en géométrie.**
 
 * Grp d'iso de polyèdres (H2G2, Tome 1)
+* Isomorphisme de groupes de Lie via action sur l'algebre de Lie (H2G2)
 
 # AP
 
@@ -129,6 +155,7 @@ d’un espace vectoriel de dimension finie. Applications.**
 applications en analyse et en géométrie.**
 
 * Lemme de Morse (Rouviere)
+* Isomorphisme de groupes de Lie via action sur l'algebre de Lie (H2G2)
 
 **215 Applications différentiables définies sur un ouvert de Rn. Exemples et applications.**
 
