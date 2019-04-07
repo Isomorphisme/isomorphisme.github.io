@@ -80,7 +80,7 @@ Rang. Exemples et applications.**
 * Invariants de similitude (Gourdon)
 * Theoreme de Molien (Leichtnam)
 
-** 152 Déterminant. Exemples et applications**
+**152 Déterminant. Exemples et applications**
 
 * Suite de polygones (à voir ? pas de ref...)
 
