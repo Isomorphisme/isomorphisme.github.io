@@ -35,6 +35,10 @@ GL(E). Applications.**
 * Décomposition polaire (H2G2, Tome 1)
 * Isomorphisme de groupes de Lie via action sur l'algebre de Lie (H2G2)
 
+**107 Représentations et caractères d'un groupe fini sur un C-espace vectoriel. Exemples.**
+
+* Indicatrice de Frobenius-Schur (N H2G2, T2)
+
 **108 Exemples de parties génératrices d’un groupe. Applications.**
 
 * Générateurs de SLn, GLn (FGN, Alg 2)
@@ -54,6 +58,9 @@ GL(E). Applications.**
 * Theoreme des deux carres (Perrin)
 
 **123 Corps finis. Applications.**
+
+* Berlekamp (Objectif agreg)
+* Chevalley-Warning (Zavidovique)
 
 **125 Extensions de corps. Exemples et applications.**
 
@@ -80,7 +87,7 @@ Rang. Exemples et applications.**
 * Invariants de similitude (Gourdon)
 * Theoreme de Molien (Leichtnam)
 
-**152 Déterminant. Exemples et applications**
+**152 Déterminant. Exemples et applications.**
 
 * Suite de polygones (à voir ? pas de ref...)
 
@@ -109,12 +116,24 @@ d’un espace vectoriel de dimension finie. Applications.**
 
 **158 Matrices symétriques réelles, matrices hermitiennes.**
 
+* Indicatrice de Frobenius-Schur (N H2G2, T2)
+
 **159 Formes linéaires et dualité en dimension finie. Exemples et applications.**
+
+* Indicatrice de Frobenius-Schur (N H2G2, T2)
 
 **162 Systèmes d’équations linéaires ; opérations élémentaires, aspects algorithmiques et conséquences théoriques.**
 
 * Cellules de la Grassmannienne (H2G2, Tome 1)
 * Générateurs de GLn, SLn (FGN, Alg 2) 
+
+**170 Formes quadratiques sur un espace vectoriel de dimension finie. Orthogonalité, isotropie. Applications.**
+
+* Indicatrice de Frobenius-Schur (N H2G2, T2)
+
+**171 Formes quadratiques réelles. Coniques. Exemples et applications.**
+
+* Indicatrice de Frobenius-Schur (N H2G2, T2)
 
 **181 Barycentres dans un espace affine réel de dimension finie, convexité. Applications.**
 
@@ -124,6 +143,7 @@ d’un espace vectoriel de dimension finie. Applications.**
 
 * Grp d'iso de polyèdres (H2G2, Tome 1)
 * Isomorphisme de groupes de Lie via action sur l'algebre de Lie (H2G2)
+* Indicatrice de Frobenius-Schur (N H2G2, T2)
 
 # AP
 
