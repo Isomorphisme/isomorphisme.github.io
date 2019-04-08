@@ -95,6 +95,7 @@ Rang. Exemples et applications.**
 
 * Invariants de similitude (Gourdon)
 * Topologie des classes de similitude (FGN, Alg 2)
+* Surjectivite de l'exp de matrices complexes (Zavidovique)
 
 **154 Sous-espaces stables par un endomorphisme ou une famille d’endomorphismes
 d’un espace vectoriel de dimension finie. Applications.**
@@ -109,6 +110,8 @@ d’un espace vectoriel de dimension finie. Applications.**
 * Décomposition polaire (H2G2, Tome 1)
 
 **156 Exponentielle de matrices. Applications.**
+
+* Surjectivite de l'exp de matrices complexes (Zavidovique)
 
 **157 Endomorphismes trigonalisables. Endomorphismes nilpotents.**
 
@@ -153,6 +156,9 @@ d’un espace vectoriel de dimension finie. Applications.**
 * Riesz-Fischer (Rudin)
 
 **204 Connexité. Exemples et applications.**
+
+* Isomorphisme de groupes de Lie via action sur l'algebre de Lie (H2G2)
+* Surjectivite de l'exp de matrices complexes (Zavidovique)
 
 **205 Espaces complets. Exemples et applications.**
 
