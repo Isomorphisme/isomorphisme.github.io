@@ -23,6 +23,8 @@ l'unité. Applications.**
 * Jordan-Hölder (Lang) 
 * Théorème de la base de Burnside (Zavidovique)
 
+**104 Groupes finis. Exemples et applications.**
+
 **105 Groupe des permutations d’un ensemble fini. Applications.**
 
 * Grp d'iso de polyèdres (H2G2, Tome 1)
@@ -43,6 +45,8 @@ GL(E). Applications.**
 
 * Générateurs de SLn, GLn (FGN, Alg 2)
 * Théorème de la base de Burnside (Zavidovique)
+
+**110 Structure et dualité des groupes abéliens finis. Applications.**
 
 **120 Anneaux Z/nZ. Applications.**
 
@@ -74,6 +78,11 @@ applications.**
 
 * Berlekamp (Objectif agreg)
 * Irred poly cyclotomique (Perrin)
+
+**142 PGCD et PPCM, algorithmes de calcul. Applications.**
+
+**144 Racines d'un polynôme. Fonctions sym´etriques élémentaires. Exemples et
+applications.**
 
 **150 Exemples d’actions de groupes sur les espaces de matrices.**
 
@@ -125,6 +134,11 @@ d’un espace vectoriel de dimension finie. Applications.**
 
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
 
+**160 Endomorphismes remarquables d'un espace vectoriel euclidien (de dimension
+finie).**
+
+**161 Distances et isométries d'un espace affine euclidien.**
+
 **162 Systèmes d’équations linéaires ; opérations élémentaires, aspects algorithmiques et conséquences théoriques.**
 
 * Cellules de la Grassmannienne (H2G2, Tome 1)
@@ -142,11 +156,15 @@ d’un espace vectoriel de dimension finie. Applications.**
 
 * Suite de polygones (pas de ref...)
 
+**182 Applications des nombres complexes `a la géométrie.**
+
 **183 Utilisation des groupes en géométrie.**
 
 * Grp d'iso de polyèdres (H2G2, Tome 1)
 * Isomorphisme de groupes de Lie via action sur l'algebre de Lie (H2G2)
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
+
+190 Méthodes combinatoires, problèmes de dénombrement.**
 
 # AP
 
@@ -154,6 +172,10 @@ d’un espace vectoriel de dimension finie. Applications.**
 
 * Gelfand-Kolmogorov (Gonnord-Tosel + freestyle)
 * Riesz-Fischer (Rudin)
+
+**202 Exemples de parties denses et applications.**
+
+**203 Utilisation de la notion de compacité.**
 
 **204 Connexité. Exemples et applications.**
 
@@ -171,6 +193,8 @@ d’un espace vectoriel de dimension finie. Applications.**
 
 * App ouverte (Brezis)
 * Bergman (Bayen Margaria)
+
+**209 Approximation d'une fonction par des polynômes et des polynômes trigonométriques. Exemples et applications.**
 
 **213 Espaces de Hilbert. Bases hilbertiennes. Exemples et applications**
 
@@ -206,7 +230,11 @@ dimension 1 et 2.**
 
 **222 Exemples d’équations aux dérivées partielles linéaires.**
 
+**223 Suites numériques. Convergence, valeurs d'adhérence. Exemples et applications.**
+
 **224 Exemples de développements asymptotiques de suites et de fonctions.**
+
+**226 Suites vectorielles et réelles définies par une relation de récurrence u_{n+1} = f(u_n). Exemples. Applications à la résolution approchée d'équations.**
 
 **228 Continuité et dérivabilité des fonctions réelles d’une variable réelle. Exemples et applications.**
 
@@ -218,6 +246,9 @@ dimension 1 et 2.**
 * Gradient (FGN Ana 4)
 * Galton-Watson (Appel)
 
+**230 Séries de nombres réels ou complexes. Comportement des restes ou des
+sommes partielles des séries numériques. Exemples.**
+
 **233 Analyse numérique matricielle : résolution approchée de systèmes linéaires,
 recherche de vecteurs propres, exemples.**
 
@@ -228,6 +259,10 @@ recherche de vecteurs propres, exemples.**
 
 * Riesz-Fischer (Rudin)
 * Riesz-Frechet-Kolmogorov (Brezis)
+
+**235 Problèmes d'interversion de limites et d’intégrales.**
+
+**236 Illustrer par des exemples quelques méthodes de calcul d'intégrales de fonctions d’une ou plusieurs variables.**
 
 **239 Fonctions définies par une intégrale dépendant d’un paramètre. Exemples et
 applications.**
@@ -253,6 +288,8 @@ applications.**
 * Banach Steinhaus et Fourier (Rudin)
 
 **250 Transformation de Fourier. Applications.**
+
+**253 Utilisation de la notion de convexité en analyse.**
 
 **260 Espérance, variance et moments d’une variable aléatoire.**
 
