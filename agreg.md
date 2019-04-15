@@ -172,8 +172,11 @@ finie).**
 
 * Gelfand-Kolmogorov (Gonnord-Tosel + freestyle)
 * Riesz-Fischer (Rudin)
+* Fourier-Plancherel (Rudin)
 
 **202 Exemples de parties denses et applications.**
+
+* Fourier-Plancherel (Rudin)
 
 **203 Utilisation de la notion de compacité.**
 
@@ -188,6 +191,9 @@ finie).**
 * Bergman (Bayen Margaria)
 
 **207 Prolongement de fonctions. Exemples et applications.**
+
+* Prolongement de Gamma (Objectif agreg + ZQ)
+* Fourier-Plancherel (Rudin)
 
 **208 Espaces vectoriels normés, applications linéaires continues. Exemples.**
 
@@ -259,6 +265,7 @@ recherche de vecteurs propres, exemples.**
 
 * Riesz-Fischer (Rudin)
 * Riesz-Frechet-Kolmogorov (Brezis)
+* Fourier-Plancherel (Rudin)
 
 **235 Problèmes d'interversion de limites et d’intégrales.**
 
@@ -269,8 +276,11 @@ applications.**
 
 * Thm de relevement (Rouviere + FGN Ana 4)
 * Fct caract des moments (Ouvrard 2)
+* Prolongement de Gamma (Objectif agreg + ZQ)
 
 **241 Suites et séries de fonctions. Exemples et contre-exemples.**
+
+* Prolongement de Gamma (Objectif agreg + ZQ)
 
 **243 Convergence des séries entières, propriétés de la somme. Exemples et applications.**
 
@@ -281,6 +291,7 @@ applications.**
 
 * Lacunes d'Hadamard (Queffelec-Zuily)
 * Bergman (Bayen Maragaria)
+* Prolongement de Gamma (Objectif agreg + ZQ)
 
 **246 Séries de Fourier. Exemples et applications.**
 
@@ -288,6 +299,8 @@ applications.**
 * Banach Steinhaus et Fourier (Rudin)
 
 **250 Transformation de Fourier. Applications.**
+
+* Fourier-Plancherel (Rudin)
 
 **253 Utilisation de la notion de convexité en analyse.**
 
