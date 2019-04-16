@@ -240,6 +240,8 @@ dimension 1 et 2.**
 
 **224 Exemples de développements asymptotiques de suites et de fonctions.**
 
+* Méthode de Laplace (Rouviere)
+
 **226 Suites vectorielles et réelles définies par une relation de récurrence u_{n+1} = f(u_n). Exemples. Applications à la résolution approchée d'équations.**
 
 **228 Continuité et dérivabilité des fonctions réelles d’une variable réelle. Exemples et applications.**
@@ -270,6 +272,8 @@ recherche de vecteurs propres, exemples.**
 **235 Problèmes d'interversion de limites et d’intégrales.**
 
 **236 Illustrer par des exemples quelques méthodes de calcul d'intégrales de fonctions d’une ou plusieurs variables.**
+
+* Méthode de Laplace (Rouviere)
 
 **239 Fonctions définies par une intégrale dépendant d’un paramètre. Exemples et
 applications.**
