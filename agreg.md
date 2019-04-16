@@ -16,7 +16,8 @@ permalink: /agreg/
 l'unité. Applications.**
 
 * FFT
-* Table de caracteres de D_n (JP Serre)
+* Table de caracteres de D_n (H2G2)
+* Polynomes cyclotomiques
 
 **103  Exemples de sous-groupes distingués et de groupes quotients. Applications.**
 
@@ -24,6 +25,9 @@ l'unité. Applications.**
 * Théorème de la base de Burnside (Zavidovique)
 
 **104 Groupes finis. Exemples et applications.**
+
+* Aut(Z/nZ) (Perrin)
+* Structure des grps abeliens finis (H2G2)
 
 **105 Groupe des permutations d’un ensemble fini. Applications.**
 
@@ -40,6 +44,7 @@ GL(E). Applications.**
 **107 Représentations et caractères d'un groupe fini sur un C-espace vectoriel. Exemples.**
 
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
+* Structure des grps abeliens finis (H2G2)
 
 **108 Exemples de parties génératrices d’un groupe. Applications.**
 
@@ -47,6 +52,8 @@ GL(E). Applications.**
 * Théorème de la base de Burnside (Zavidovique)
 
 **110 Structure et dualité des groupes abéliens finis. Applications.**
+
+* Structure des grps abeliens finis (H2G2)
 
 **120 Anneaux Z/nZ. Applications.**
 
@@ -156,7 +163,7 @@ finie).**
 
 * Suite de polygones (pas de ref...)
 
-**182 Applications des nombres complexes `a la géométrie.**
+**182 Applications des nombres complexes à la géométrie.**
 
 **183 Utilisation des groupes en géométrie.**
 
@@ -164,7 +171,7 @@ finie).**
 * Isomorphisme de groupes de Lie via action sur l'algebre de Lie (H2G2)
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
 
-190 Méthodes combinatoires, problèmes de dénombrement.**
+**190 Méthodes combinatoires, problèmes de dénombrement.**
 
 # AP
 
@@ -259,9 +266,6 @@ sommes partielles des séries numériques. Exemples.**
 
 **233 Analyse numérique matricielle : résolution approchée de systèmes linéaires,
 recherche de vecteurs propres, exemples.**
-
-* Householder (Serre)
-* QR/Choleski (Serre)
 
 **234 Fonctions et espaces de fonctions Lebesgue-intégrables.**
 
