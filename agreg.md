@@ -63,17 +63,23 @@ GL(E). Applications.**
 **121 Nombres premiers. Applications.**
 
 * Theoreme des deux carres (Perrin)
+* Reciprocite quadratique via formes quadratiques (H2G2)
 
 **122 Anneaux principaux. Applications.**
 
 * Theoreme des deux carres (Perrin)
+* Berlekamp (Objectif agreg)
 
 **123 Corps finis. Applications.**
 
 * Berlekamp (Objectif agreg)
 * Chevalley-Warning (Zavidovique)
+* Reciprocite quadratique via formes quadratiques (H2G2) (bof)
 
 **125 Extensions de corps. Exemples et applications.**
+
+* Berlekamp (Objectif agreg)
+* Ensemble des nombres algebriques est une k-algebre via resultant (Szpriglas)
 
 **126 Exemples d’équations en arithmétique.**
 
@@ -106,6 +112,7 @@ Rang. Exemples et applications.**
 **152 Déterminant. Exemples et applications.**
 
 * Suite de polygones (à voir ? pas de ref...)
+* Ensemble des nombres algebriques est une k-algebre via resultant (Szpriglas)
 
 **153 Polynômes d’endomorphisme en dimension finie. Réduction d’un endomorphisme en dimension finie. Applications.**
 
@@ -154,6 +161,7 @@ finie).**
 **170 Formes quadratiques sur un espace vectoriel de dimension finie. Orthogonalité, isotropie. Applications.**
 
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
+* Reciprocite quadratique via formes quadratiques (H2G2)
 
 **171 Formes quadratiques réelles. Coniques. Exemples et applications.**
 
@@ -172,6 +180,8 @@ finie).**
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
 
 **190 Méthodes combinatoires, problèmes de dénombrement.**
+
+* Reciprocite quadratique via formes quadratiques (H2G2)
 
 # AP
 
@@ -245,11 +255,15 @@ dimension 1 et 2.**
 
 **223 Suites numériques. Convergence, valeurs d'adhérence. Exemples et applications.**
 
+* Newton de faible (Rouviere)
+
 **224 Exemples de développements asymptotiques de suites et de fonctions.**
 
 * Méthode de Laplace (Rouviere)
 
 **226 Suites vectorielles et réelles définies par une relation de récurrence u_{n+1} = f(u_n). Exemples. Applications à la résolution approchée d'équations.**
+
+* Newton de faible (Rouviere)
 
 **228 Continuité et dérivabilité des fonctions réelles d’une variable réelle. Exemples et applications.**
 
@@ -311,6 +325,8 @@ applications.**
 * Fourier-Plancherel (Rudin)
 
 **253 Utilisation de la notion de convexité en analyse.**
+
+* Newton de faible (Rouviere) (bof bof)
 
 **260 Espérance, variance et moments d’une variable aléatoire.**
 
