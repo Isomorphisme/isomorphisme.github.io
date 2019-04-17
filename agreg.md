@@ -153,7 +153,11 @@ d’un espace vectoriel de dimension finie. Applications.**
 **160 Endomorphismes remarquables d'un espace vectoriel euclidien (de dimension
 finie).**
 
+* SO(3) isomorphe aux (quaternions de module 1) modulo +- 1 (ie SO(3) = RP3)
+
 **161 Distances et isométries d'un espace affine euclidien.**
+
+* SO(3) isomorphe aux (quaternions de module 1) modulo +- 1 (ie SO(3) = RP3)
 
 **162 Systèmes d’équations linéaires ; opérations élémentaires, aspects algorithmiques et conséquences théoriques.**
 
@@ -175,11 +179,14 @@ finie).**
 
 **182 Applications des nombres complexes à la géométrie.**
 
+* SO(3) isomorphe aux (quaternions de module 1) modulo +- 1 (ie SO(3) = RP3)
+
 **183 Utilisation des groupes en géométrie.**
 
 * Grp d'iso de polyèdres (H2G2, Tome 1)
 * Isomorphisme de groupes de Lie via action sur l'algebre de Lie (H2G2)
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
+* SO(3) isomorphe aux (quaternions de module 1) modulo +- 1 (ie SO(3) = RP3)
 
 **190 Méthodes combinatoires, problèmes de dénombrement.**
 
