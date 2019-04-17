@@ -138,15 +138,17 @@ d’un espace vectoriel de dimension finie. Applications.**
 
 **157 Endomorphismes trigonalisables. Endomorphismes nilpotents.**
 
-* Matrice nilpotentes, tableaux de Young (H2G2)
+* Topologie des classes de similitude (FGN, Alg2)
 
 **158 Matrices symétriques réelles, matrices hermitiennes.**
 
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
+* Décomposition polaire (H2G2, Tome 1)
 
 **159 Formes linéaires et dualité en dimension finie. Exemples et applications.**
 
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
+* Extrema liés avec application au theoreme spectral (Avez)
 
 **160 Endomorphismes remarquables d'un espace vectoriel euclidien (de dimension
 finie).**
