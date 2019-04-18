@@ -94,7 +94,7 @@ applications.**
 
 **142 PGCD et PPCM, algorithmes de calcul. Applications.**
 
-**144 Racines d'un polynôme. Fonctions sym´etriques élémentaires. Exemples et
+**144 Racines d'un polynôme. Fonctions symétriques élémentaires. Exemples et
 applications.**
 
 **150 Exemples d’actions de groupes sur les espaces de matrices.**
@@ -113,6 +113,7 @@ Rang. Exemples et applications.**
 
 * Suite de polygones (à voir ? pas de ref...)
 * Ensemble des nombres algebriques est une k-algebre via resultant (Szpriglas)
+* Theoreme de Pascal et coniques (Eiden)
 
 **153 Polynômes d’endomorphisme en dimension finie. Réduction d’un endomorphisme en dimension finie. Applications.**
 
@@ -135,10 +136,12 @@ d’un espace vectoriel de dimension finie. Applications.**
 **156 Exponentielle de matrices. Applications.**
 
 * Surjectivite de l'exp de matrices complexes (Zavidovique)
+* Equation de Sylvester (Gourdon)
 
 **157 Endomorphismes trigonalisables. Endomorphismes nilpotents.**
 
 * Topologie des classes de similitude (FGN, Alg2)
+* Equation de Sylvester (Gourdon)
 
 **158 Matrices symétriques réelles, matrices hermitiennes.**
 
@@ -158,11 +161,13 @@ finie).**
 **161 Distances et isométries d'un espace affine euclidien.**
 
 * SO(3) isomorphe aux (quaternions de module 1) modulo +- 1 (ie SO(3) = RP3)
+* Grp d'iso de polyèdres (H2G2, Tome 1)
 
 **162 Systèmes d’équations linéaires ; opérations élémentaires, aspects algorithmiques et conséquences théoriques.**
 
 * Cellules de la Grassmannienne (H2G2, Tome 1)
-* Générateurs de GLn, SLn (FGN, Alg 2) 
+* Générateurs de GLn, SLn (FGN, Alg 2)
+* Theoreme de Pascal et coniques (Eiden) (bof, à adapter)
 
 **170 Formes quadratiques sur un espace vectoriel de dimension finie. Orthogonalité, isotropie. Applications.**
 
@@ -172,10 +177,12 @@ finie).**
 **171 Formes quadratiques réelles. Coniques. Exemples et applications.**
 
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
+* Theoreme de Pascal et coniques (Eiden)
 
 **181 Barycentres dans un espace affine réel de dimension finie, convexité. Applications.**
 
 * Suite de polygones (pas de ref...)
+* Theoreme de Pascal et coniques (Eiden)
 
 **182 Applications des nombres complexes à la géométrie.**
 
@@ -259,6 +266,7 @@ dimension 1 et 2.**
 
 * Liapunov (Rouviere)
 * Translatés de C(R,R) (FGN Alg 1)
+* Equation de Sylvester (Gourdon)
 
 **222 Exemples d’équations aux dérivées partielles linéaires.**
 
@@ -308,6 +316,7 @@ applications.**
 * Thm de relevement (Rouviere + FGN Ana 4)
 * Fct caract des moments (Ouvrard 2)
 * Prolongement de Gamma (Objectif agreg + ZQ)
+* Fourier-Plancherel (Rudin)
 
 **241 Suites et séries de fonctions. Exemples et contre-exemples.**
 
