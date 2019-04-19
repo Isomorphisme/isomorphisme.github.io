@@ -235,6 +235,8 @@ finie).**
 
 **209 Approximation d'une fonction par des polynômes et des polynômes trigonométriques. Exemples et applications.**
 
+* Densite polynomes orthogonaux (Objectif agreg)
+
 **213 Espaces de Hilbert. Bases hilbertiennes. Exemples et applications**
 
 * Proj sur convexe fermé (Brezis)
@@ -323,6 +325,7 @@ applications.**
 **241 Suites et séries de fonctions. Exemples et contre-exemples.**
 
 * Prolongement de Gamma (Objectif agreg + ZQ)
+* Lacunes d'Hadamard (Queffelec-Zuily)
 
 **243 Convergence des séries entières, propriétés de la somme. Exemples et applications.**
 
