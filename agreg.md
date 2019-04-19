@@ -231,6 +231,7 @@ finie).**
 **208 Espaces vectoriels normés, applications linéaires continues. Exemples.**
 
 * App ouverte (Brezis)
+* Liapunov (Rouviere)
 
 **209 Approximation d'une fonction par des polynômes et des polynômes trigonométriques. Exemples et applications.**
 
@@ -280,6 +281,7 @@ dimension 1 et 2.**
 **226 Suites vectorielles et réelles définies par une relation de récurrence u_{n+1} = f(u_n). Exemples. Applications à la résolution approchée d'équations.**
 
 * Newton de faible (Rouviere)
+* Descente du gradient (FGN Ana 4)
 
 **228 Continuité et dérivabilité des fonctions réelles d’une variable réelle. Exemples et applications.**
 
@@ -308,6 +310,7 @@ recherche de vecteurs propres, exemples.**
 **236 Illustrer par des exemples quelques méthodes de calcul d'intégrales de fonctions d’une ou plusieurs variables.**
 
 * Méthode de Laplace (Rouviere)
+* Inégalité isopérimétrique (Queffelec-Zuily)
 
 **239 Fonctions définies par une intégrale dépendant d’un paramètre. Exemples et
 applications.**
