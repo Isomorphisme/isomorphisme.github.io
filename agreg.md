@@ -21,7 +21,7 @@ l'unité. Applications.**
 
 **103  Exemples de sous-groupes distingués et de groupes quotients. Applications.**
 
-* Jordan-Hölder (Lang) 
+
 * Théorème de la base de Burnside (Zavidovique)
 
 **104 Groupes finis. Exemples et applications.**
