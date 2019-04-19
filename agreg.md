@@ -165,7 +165,6 @@ finie).**
 
 **162 Systèmes d’équations linéaires ; opérations élémentaires, aspects algorithmiques et conséquences théoriques.**
 
-* Cellules de la Grassmannienne (H2G2, Tome 1)
 * Générateurs de GLn, SLn (FGN, Alg 2)
 * Theoreme de Pascal et coniques (Eiden) (bof, à adapter)
 
@@ -210,6 +209,7 @@ finie).**
 **202 Exemples de parties denses et applications.**
 
 * Fourier-Plancherel (Rudin)
+* Densite polynomes orthogonaux (Objectif agreg)
 
 **203 Utilisation de la notion de compacité.**
 
@@ -221,7 +221,7 @@ finie).**
 **205 Espaces complets. Exemples et applications.**
 
 * App ouverte (Brezis)
-* Bergman (Bayen Margaria)
+* Riesz-Fischer (Rudin)
 
 **207 Prolongement de fonctions. Exemples et applications.**
 
@@ -231,14 +231,13 @@ finie).**
 **208 Espaces vectoriels normés, applications linéaires continues. Exemples.**
 
 * App ouverte (Brezis)
-* Bergman (Bayen Margaria)
 
 **209 Approximation d'une fonction par des polynômes et des polynômes trigonométriques. Exemples et applications.**
 
 **213 Espaces de Hilbert. Bases hilbertiennes. Exemples et applications**
 
 * Proj sur convexe fermé (Brezis)
-* Bergman (Bayen Margaria)
+* Densite polynomes orthogonaux (Objectif agreg)
 
 **214 Théorème d’inversion locale, théorème des fonctions implicites. Exemples et
 applications en analyse et en géométrie.**
@@ -325,26 +324,24 @@ applications.**
 **243 Convergence des séries entières, propriétés de la somme. Exemples et applications.**
 
 * Lacunes d'Hadamard (Queffelec-Zuily)
-* Bergman (Bayen Maragaria)
 
 **245 Fonctions holomorphes sur un ouvert de C. Exemples et applications.**
 
 * Lacunes d'Hadamard (Queffelec-Zuily)
-* Bergman (Bayen Maragaria)
 * Prolongement de Gamma (Objectif agreg + ZQ)
 
 **246 Séries de Fourier. Exemples et applications.**
 
 * Inégalité isopérimétrique (Queffelec-Zuily)
-* Banach Steinhaus et Fourier (Rudin)
 
 **250 Transformation de Fourier. Applications.**
 
 * Fourier-Plancherel (Rudin)
+* Densite polynomes orthogonaux (Objectif agreg)
 
 **253 Utilisation de la notion de convexité en analyse.**
 
-* Newton de faible (Rouviere) (bof bof)
+* Proj sur convexe fermé (Brezis)
 
 **260 Espérance, variance et moments d’une variable aléatoire.**
 
@@ -368,3 +365,5 @@ et applications.**
 * Galton-Watson (Appel)
 
 **265 Exemples d'études et d'applications de fonctions usuelles et spéciales**
+
+* Prolongement de Gamma (Objectif agreg + ZQ)
