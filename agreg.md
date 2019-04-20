@@ -15,12 +15,10 @@ permalink: /agreg/
 **102 Groupe des nombres complexes de module 1. Sous-groupes des racines de
 l'unité. Applications.**
 
-* FFT
 * Table de caracteres de D_n (H2G2)
 * Polynomes cyclotomiques
 
 **103  Exemples de sous-groupes distingués et de groupes quotients. Applications.**
-
 
 * Théorème de la base de Burnside (Zavidovique)
 
@@ -54,6 +52,7 @@ GL(E). Applications.**
 **110 Structure et dualité des groupes abéliens finis. Applications.**
 
 * Structure des grps abeliens finis (H2G2)
+* Z/nZ* cyclique (Perrin)
 
 **120 Anneaux Z/nZ. Applications.**
 
@@ -298,8 +297,13 @@ dimension 1 et 2.**
 **230 Séries de nombres réels ou complexes. Comportement des restes ou des
 sommes partielles des séries numériques. Exemples.**
 
+* Lacunes d'Hadamard (Queffelec-Zuily)
+* Calcul nombres de Bernoulli et zeta(2k) (FGN Analyse 2)
+
 **233 Analyse numérique matricielle : résolution approchée de systèmes linéaires,
 recherche de vecteurs propres, exemples.**
+
+* Householder (Serre)
 
 **234 Fonctions et espaces de fonctions Lebesgue-intégrables.**
 
@@ -339,6 +343,7 @@ applications.**
 **246 Séries de Fourier. Exemples et applications.**
 
 * Inégalité isopérimétrique (Queffelec-Zuily)
+* Calcul nombres de Bernoulli et zeta(2k) (FGN Analyse 2)
 
 **250 Transformation de Fourier. Applications.**
 
