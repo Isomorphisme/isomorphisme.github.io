@@ -21,6 +21,7 @@ l'unité. Applications.**
 **103  Exemples de sous-groupes distingués et de groupes quotients. Applications.**
 
 * Théorème de la base de Burnside (Zavidovique)
+* Frobenius-Zolotarev (Objectif agreg)
 
 **104 Groupes finis. Exemples et applications.**
 
@@ -57,7 +58,7 @@ GL(E). Applications.**
 **120 Anneaux Z/nZ. Applications.**
 
 * Aut(Z/nZ) (Perrin)
-* Frobenius-Zolotarev (Zavidovique)
+* Structure des grps abeliens finis (H2G2)
 
 **121 Nombres premiers. Applications.**
 
@@ -105,7 +106,6 @@ applications.**
 Rang. Exemples et applications.**
 
 * Berlekamp (Objectif agreg)
-* Invariants de similitude (Gourdon)
 * Theoreme de Molien (Leichtnam)
 
 **152 Déterminant. Exemples et applications.**
@@ -116,14 +116,12 @@ Rang. Exemples et applications.**
 
 **153 Polynômes d’endomorphisme en dimension finie. Réduction d’un endomorphisme en dimension finie. Applications.**
 
-* Invariants de similitude (Gourdon)
 * Topologie des classes de similitude (FGN, Alg 2)
 * Surjectivite de l'exp de matrices complexes (Zavidovique)
 
 **154 Sous-espaces stables par un endomorphisme ou une famille d’endomorphismes
 d’un espace vectoriel de dimension finie. Applications.**
 
-* Invariants de similitude (Gourdon)
 * Table de S4 (Peyré)
 * Theoreme de Molien (Leichtnam)
 
@@ -155,6 +153,7 @@ d’un espace vectoriel de dimension finie. Applications.**
 **160 Endomorphismes remarquables d'un espace vectoriel euclidien (de dimension
 finie).**
 
+* Décomposition polaire (H2G2, Tome 1)
 * SO(3) isomorphe aux (quaternions de module 1) modulo +- 1 (ie SO(3) = RP3)
 
 **161 Distances et isométries d'un espace affine euclidien.**
