@@ -286,7 +286,7 @@ dimension 1 et 2.**
 **228 Continuité et dérivabilité des fonctions réelles d’une variable réelle. Exemples et applications.**
 
 * Translatés de C(R,R) (FGN Alg 1)
-* Fct caract des moments (Ouvrard 2)
+* Méthode de Laplace (Rouviere)
 
 **229 Fonctions monotones. Fonctions convexes. Exemples et applications.**
 
@@ -307,7 +307,6 @@ recherche de vecteurs propres, exemples.**
 **234 Fonctions et espaces de fonctions Lebesgue-intégrables.**
 
 * Riesz-Fischer (Rudin)
-* Riesz-Frechet-Kolmogorov (Brezis)
 * Fourier-Plancherel (Rudin)
 
 **235 Problèmes d'interversion de limites et d’intégrales.**
@@ -320,8 +319,6 @@ recherche de vecteurs propres, exemples.**
 **239 Fonctions définies par une intégrale dépendant d’un paramètre. Exemples et
 applications.**
 
-* Lemme de Morse (Rouviere)
-* Fct caract des moments (Ouvrard 2)
 * Prolongement de Gamma (Objectif agreg + ZQ)
 * Fourier-Plancherel (Rudin)
 
