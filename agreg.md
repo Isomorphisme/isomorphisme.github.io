@@ -248,7 +248,7 @@ applications en analyse et en géométrie.**
 
 **215 Applications différentiables définies sur un ouvert de Rn. Exemples et applications.**
 
-* Thm de relevement (Rouviere (lemme) et FGN Ana 4)
+* Lemme de Morse (Rouviere)
 * Thm de redressement de champs de vecteurs (Rouviere)
 
 **219 Extremums : existence, caractérisation, recherche. Exemples et applications.**
@@ -320,7 +320,7 @@ recherche de vecteurs propres, exemples.**
 **239 Fonctions définies par une intégrale dépendant d’un paramètre. Exemples et
 applications.**
 
-* Thm de relevement (Rouviere + FGN Ana 4)
+* Lemme de Morse (Rouviere)
 * Fct caract des moments (Ouvrard 2)
 * Prolongement de Gamma (Objectif agreg + ZQ)
 * Fourier-Plancherel (Rudin)
