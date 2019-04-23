@@ -15,8 +15,8 @@ permalink: /agreg/
 **102 Groupe des nombres complexes de module 1. Sous-groupes des racines de
 l'unité. Applications.**
 
-* Table de caracteres de D_n (H2G2)
 * Polynomes cyclotomiques
+* Structure des grps abeliens finis (H2G2)
 
 **103  Exemples de sous-groupes distingués et de groupes quotients. Applications.**
 
