@@ -94,8 +94,13 @@ applications.**
 
 **142 PGCD et PPCM, algorithmes de calcul. Applications.**
 
+* Berlekamp (Objectif agreg)
+
 **144 Racines d'un polynôme. Fonctions symétriques élémentaires. Exemples et
 applications.**
+
+* Chevalley-Warning (Zavidovique)
+* Racines et forme quadratique (Gantemacher)
 
 **150 Exemples d’actions de groupes sur les espaces de matrices.**
 
@@ -184,6 +189,7 @@ finie).**
 **182 Applications des nombres complexes à la géométrie.**
 
 * SO(3) isomorphe aux (quaternions de module 1) modulo +- 1 (ie SO(3) = RP3)
+* Suite de polygones (pas de ref...)
 
 **183 Utilisation des groupes en géométrie.**
 
@@ -210,6 +216,8 @@ finie).**
 * Densite polynomes orthogonaux (Objectif agreg)
 
 **203 Utilisation de la notion de compacité.**
+
+* Kakutani-Massera (Gonnord Tosel, les deux)
 
 **204 Connexité. Exemples et applications.**
 
@@ -273,6 +281,7 @@ dimension 1 et 2.**
 **223 Suites numériques. Convergence, valeurs d'adhérence. Exemples et applications.**
 
 * Newton de faible (Rouviere)
+* Theoreme d'Abel angulaire + tauberien faible (Gourdon)
 
 **224 Exemples de développements asymptotiques de suites et de fonctions.**
 
@@ -330,6 +339,7 @@ applications.**
 **243 Convergence des séries entières, propriétés de la somme. Exemples et applications.**
 
 * Lacunes d'Hadamard (Queffelec-Zuily)
+* Theoreme d'Abel angulaire + tauberien faible (Gourdon)
 
 **245 Fonctions holomorphes sur un ouvert de C. Exemples et applications.**
 
@@ -349,6 +359,7 @@ applications.**
 **253 Utilisation de la notion de convexité en analyse.**
 
 * Proj sur convexe fermé (Brezis)
+* Kakutani-Massera (Gonnord Tosel, les deux)
 
 **260 Espérance, variance et moments d’une variable aléatoire.**
 
