@@ -43,7 +43,8 @@ GL(E). Applications.**
 **107 Représentations et caractères d'un groupe fini sur un C-espace vectoriel. Exemples.**
 
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
-* Structure des grps abeliens finis (H2G2)
+* Structure des grps abeliens finis (H2G2) (bof)
+* Table de S4 via action sur tetraedre (Peyré)
 
 **108 Exemples de parties génératrices d’un groupe. Applications.**
 
@@ -79,7 +80,7 @@ GL(E). Applications.**
 **125 Extensions de corps. Exemples et applications.**
 
 * Berlekamp (Objectif agreg)
-* Ensemble des nombres algebriques est une k-algebre via resultant (Szpriglas)
+* Ensemble des nombres algebriques est une k-algebre via resultant (Szpirglas)
 
 **126 Exemples d’équations en arithmétique.**
 
@@ -116,7 +117,7 @@ Rang. Exemples et applications.**
 **152 Déterminant. Exemples et applications.**
 
 * Suite de polygones (à voir ? pas de ref...)
-* Ensemble des nombres algebriques est une k-algebre via resultant (Szpriglas)
+* Ensemble des nombres algebriques est une k-algebre via resultant (Szpirglas)
 * Theoreme de Pascal et coniques (Eiden)
 
 **153 Polynômes d’endomorphisme en dimension finie. Réduction d’un endomorphisme en dimension finie. Applications.**
