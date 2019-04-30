@@ -176,11 +176,13 @@ finie).**
 
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
 * Reciprocite quadratique via formes quadratiques (H2G2)
+* Racines et forme quadratique (Gantemacher)
 
 **171 Formes quadratiques réelles. Coniques. Exemples et applications.**
 
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
 * Theoreme de Pascal et coniques (Eiden)
+* Racines et forme quadratique (Gantemacher)
 
 **181 Barycentres dans un espace affine réel de dimension finie, convexité. Applications.**
 
