@@ -101,7 +101,7 @@ applications.**
 applications.**
 
 * Chevalley-Warning (Zavidovique)
-* Racines et forme quadratique (Gantemacher)
+* Racines et forme quadratique (Gantmacher)
 
 **150 Exemples d’actions de groupes sur les espaces de matrices.**
 
@@ -176,13 +176,13 @@ finie).**
 
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
 * Reciprocite quadratique via formes quadratiques (H2G2)
-* Racines et forme quadratique (Gantemacher)
+* Racines et forme quadratique (Gantmacher)
 
 **171 Formes quadratiques réelles. Coniques. Exemples et applications.**
 
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
 * Theoreme de Pascal et coniques (Eiden)
-* Racines et forme quadratique (Gantemacher)
+* Racines et forme quadratique (Gantmacher)
 
 **181 Barycentres dans un espace affine réel de dimension finie, convexité. Applications.**
 
@@ -204,6 +204,7 @@ finie).**
 **190 Méthodes combinatoires, problèmes de dénombrement.**
 
 * Reciprocite quadratique via formes quadratiques (H2G2)
+* Theoreme de Molien (Leichtnam)
 
 # AP
 
@@ -284,7 +285,6 @@ dimension 1 et 2.**
 **223 Suites numériques. Convergence, valeurs d'adhérence. Exemples et applications.**
 
 * Newton de faible (Rouviere)
-* Theoreme d'Abel angulaire + tauberien faible (Gourdon)
 
 **224 Exemples de développements asymptotiques de suites et de fonctions.**
 
@@ -369,15 +369,14 @@ applications.**
 * Fct caract des moments (Ouvrard 2)
 * Galton-Watson (Appel)
 
-**261 Loi d’une variable aléatoire: caractérisations, exemples, applications.**
+**261 Loi d'une variable aléatoire: caractérisations, exemples, applications.**
 
 * Levy (Queffelec-Zuily)
 * Fct caract (Ouvrard 2)
 
-**262 Convergences d’une suite de variables aléatoires. Théorèmes limite. Exemples
+**262 Convergences d'une suite de variables aléatoires. Théorèmes limite. Exemples
 et applications.**
 
-* Bernstein (abus)
 * Levy (Queffelec-Zuily)
 
 **264 Variables aléatoires discrètes. Exemples et applications.**
