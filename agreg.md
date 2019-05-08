@@ -205,6 +205,7 @@ finie).**
 
 * Reciprocite quadratique via formes quadratiques (H2G2)
 * Theoreme de Molien (Leichtnam)
+* p(n) en parts fixees (Chambert Loir, FGN, Gourdon)
 
 # AP
 
@@ -222,6 +223,7 @@ finie).**
 **203 Utilisation de la notion de compacité.**
 
 * Kakutani-Massera (Gonnord Tosel, les deux)
+* Gradient (FGN Analyse 4)
 
 **204 Connexité. Exemples et applications.**
 
@@ -242,6 +244,7 @@ finie).**
 
 * App ouverte (Brezis)
 * Liapunov (Rouviere)
+* Householder (Serre)
 
 **209 Approximation d'une fonction par des polynômes et des polynômes trigonométriques. Exemples et applications.**
 
@@ -285,10 +288,12 @@ dimension 1 et 2.**
 **223 Suites numériques. Convergence, valeurs d'adhérence. Exemples et applications.**
 
 * Newton de faible (Rouviere)
+* Etude asymptotique du nombre de partitions en parts fixees (Chambert Loir Analyse 1, Gourdon, FGN Analyse 2)
 
 **224 Exemples de développements asymptotiques de suites et de fonctions.**
 
 * Méthode de Laplace (Rouviere)
+* Etude asymptotique du nombre de partitions en parts fixees (Chambert Loir Analyse 1, Gourdon, FGN Analyse 2)
 
 **226 Suites vectorielles et réelles définies par une relation de récurrence u_{n+1} = f(u_n). Exemples. Applications à la résolution approchée d'équations.**
 
