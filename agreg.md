@@ -249,6 +249,7 @@ finie).**
 **209 Approximation d'une fonction par des polynômes et des polynômes trigonométriques. Exemples et applications.**
 
 * Densite polynomes orthogonaux (Objectif agreg)
+* Weierstrass avec la convolution (baby Rudin)
 
 **213 Espaces de Hilbert. Bases hilbertiennes. Exemples et applications**
 
@@ -328,6 +329,9 @@ recherche de vecteurs propres, exemples.**
 
 **235 Problèmes d'interversion de limites et d’intégrales.**
 
+* Fourier-Plancherel (Rudin) (en adaptant les lemmes)
+* Prolongement de Gamma (Objectif agreg + ZQ) (en insistant sur Fubini et holomorphie sous somme)
+
 **236 Illustrer par des exemples quelques méthodes de calcul d'intégrales de fonctions d’une ou plusieurs variables.**
 
 * Méthode de Laplace (Rouviere)
@@ -383,10 +387,11 @@ applications.**
 et applications.**
 
 * Levy (Queffelec-Zuily)
+* Proportion de 0 et 1 dans les decimales, loi forte L4 (Appel)
 
 **264 Variables aléatoires discrètes. Exemples et applications.**
 
-* Bernstein (Ouvrard 1)
+* Proportion de 0 et 1 dans les decimales, loi forte L4 (Appel)
 * Galton-Watson (Appel)
 
 **265 Exemples d'études et d'applications de fonctions usuelles et spéciales**
