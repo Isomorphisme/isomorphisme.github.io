@@ -307,7 +307,7 @@ dimension 1 et 2.**
 **229 Fonctions monotones. Fonctions convexes. Exemples et applications.**
 
 * Gradient (FGN Ana 4)
-* Galton-Watson (Appel)
+* Bohr-Mollerup (Rudin + Rombaldi exos)
 
 **230 Séries de nombres réels ou complexes. Comportement des restes ou des
 sommes partielles des séries numériques. Exemples.**
@@ -395,3 +395,4 @@ et applications.**
 **265 Exemples d'études et d'applications de fonctions usuelles et spéciales**
 
 * Prolongement de Gamma (Objectif agreg + ZQ)
+* Bohr-Mollerup (Rudin + Rombaldi exos)
