@@ -116,9 +116,8 @@ Rang. Exemples et applications.**
 
 **152 Déterminant. Exemples et applications.**
 
-* Suite de polygones (à voir ? pas de ref...)
 * Ensemble des nombres algebriques est une k-algebre via resultant (Szpirglas)
-* Theoreme de Pascal et coniques (Eiden)
+* Par cinq points passe une conique (Eiden)
 
 **153 Polynômes d’endomorphisme en dimension finie. Réduction d’un endomorphisme en dimension finie. Applications.**
 
@@ -170,7 +169,7 @@ finie).**
 **162 Systèmes d’équations linéaires ; opérations élémentaires, aspects algorithmiques et conséquences théoriques.**
 
 * Générateurs de GLn, SLn (FGN, Alg 2)
-* Theoreme de Pascal et coniques (Eiden) (bof, à adapter)
+* Par cinq points passe une conique (Eiden)
 
 **170 Formes quadratiques sur un espace vectoriel de dimension finie. Orthogonalité, isotropie. Applications.**
 
@@ -181,13 +180,13 @@ finie).**
 **171 Formes quadratiques réelles. Coniques. Exemples et applications.**
 
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
-* Theoreme de Pascal et coniques (Eiden)
+* Par cinq points passe une conique (Eiden)
 * Racines et forme quadratique (Gantmacher)
 
 **181 Barycentres dans un espace affine réel de dimension finie, convexité. Applications.**
 
 * Suite de polygones (pas de ref...)
-* Theoreme de Pascal et coniques (Eiden)
+* Par cinq points passe une conique (Eiden)
 
 **182 Applications des nombres complexes à la géométrie.**
 
@@ -281,7 +280,6 @@ dimension 1 et 2.**
 **221 Equations différentielles linéaires. Systèmes d’équations différentielles linéaires. Exemples et applications.**
 
 * Liapunov (Rouviere)
-* Translatés de C(R,R) (FGN Alg 1)
 * Equation de Sylvester (Gourdon)
 
 **222 Exemples d’équations aux dérivées partielles linéaires.**
@@ -303,7 +301,7 @@ dimension 1 et 2.**
 
 **228 Continuité et dérivabilité des fonctions réelles d’une variable réelle. Exemples et applications.**
 
-* Translatés de C(R,R) (FGN Alg 1)
+* Weierstrass avec la convolution (baby Rudin)
 * Méthode de Laplace (Rouviere)
 
 **229 Fonctions monotones. Fonctions convexes. Exemples et applications.**
