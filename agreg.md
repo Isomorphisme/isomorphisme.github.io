@@ -319,6 +319,7 @@ sommes partielles des séries numériques. Exemples.**
 recherche de vecteurs propres, exemples.**
 
 * Householder (Serre)
+* Factorisation LU et Choleski (Serre)
 
 **234 Fonctions et espaces de fonctions Lebesgue-intégrables.**
 
