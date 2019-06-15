@@ -379,13 +379,13 @@ applications.**
 
 **261 Loi d'une variable aléatoire: caractérisations, exemples, applications.**
 
-* Levy (Queffelec-Zuily)
+* Loi gamma et Stirling (Foata, Fuchs)
 * Fct caract (Ouvrard 2)
 
 **262 Convergences d'une suite de variables aléatoires. Théorèmes limite. Exemples
 et applications.**
 
-* Levy (Queffelec-Zuily)
+* Loi gamma et Stirling (Foata, Fuchs)
 * Proportion de 0 et 1 dans les decimales, loi forte L4 (Appel)
 
 **264 Variables aléatoires discrètes. Exemples et applications.**
