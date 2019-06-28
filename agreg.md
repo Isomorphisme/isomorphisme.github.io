@@ -43,8 +43,7 @@ GL(E). Applications.**
 **107 Représentations et caractères d'un groupe fini sur un C-espace vectoriel. Exemples.**
 
 * Indicatrice de Frobenius-Schur (N H2G2, T2)
-* Structure des grps abeliens finis (H2G2) (bof)
-* Table de S4 via action sur tetraedre (Peyré)
+* Theoreme de Molien (NH2G2 T2)
 
 **108 Exemples de parties génératrices d’un groupe. Applications.**
 
@@ -59,7 +58,7 @@ GL(E). Applications.**
 **120 Anneaux Z/nZ. Applications.**
 
 * Aut(Z/nZ) (Perrin)
-* Structure des grps abeliens finis (H2G2)
+* Chevalley-Warning (Zavidovique)
 
 **121 Nombres premiers. Applications.**
 
@@ -112,7 +111,7 @@ applications.**
 Rang. Exemples et applications.**
 
 * Berlekamp (Objectif agreg)
-* Theoreme de Molien (Leichtnam)
+* Theoreme de Molien (NH2G2 T2)
 
 **152 Déterminant. Exemples et applications.**
 
@@ -127,8 +126,8 @@ Rang. Exemples et applications.**
 **154 Sous-espaces stables par un endomorphisme ou une famille d’endomorphismes
 d’un espace vectoriel de dimension finie. Applications.**
 
-* Table de S4 (Peyré)
-* Theoreme de Molien (Leichtnam)
+* SO(3) isomorphe aux (quaternions de module 1) modulo +- 1 (ie SO(3) = RP3)
+* Theoreme de Molien (NH2G2 T2)
 
 **155 Endomorphismes diagonalisables en dimension finie.**
 
@@ -203,7 +202,7 @@ finie).**
 **190 Méthodes combinatoires, problèmes de dénombrement.**
 
 * Reciprocite quadratique via formes quadratiques (H2G2)
-* Theoreme de Molien (Leichtnam)
+* Theoreme de Molien (NH2G2 T2)
 * p(n) en parts fixees (Chambert Loir, FGN, Gourdon)
 
 # AP
@@ -275,11 +274,11 @@ applications en analyse et en géométrie.**
 dimension 1 et 2.**
 
 * Redressement champ vecteurs (Rouviere)
-* Liapunov (Rouviere)
+* Kakutani-Massera (Gonnord Tosel, les deux)
 
 **221 Equations différentielles linéaires. Systèmes d’équations différentielles linéaires. Exemples et applications.**
 
-* Liapunov (Rouviere)
+* Kakutani-Massera (Gonnord Tosel, les deux)
 * Equation de Sylvester (Gourdon)
 
 **222 Exemples d’équations aux dérivées partielles linéaires.**
