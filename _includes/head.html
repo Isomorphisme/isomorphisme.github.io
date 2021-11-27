@@ -1,0 +1,55 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+
+  <style>
+    .columnhome {
+      float: left;
+      width: 50%;
+    }
+
+    .columnhome-1 {
+      padding-top: 30px;
+    }
+
+    .columnhome-2 {
+      text-align: right;
+      width: 40%;
+    }
+
+    .tablehome {
+      border:  none;
+    }
+
+    .tablehome td {
+      border:  none;
+      padding: 0px;
+    }
+
+    .tablehome tr:nth-child(2){
+      background-color: #ffffff;
+    }
+
+    .rowhome:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .rowhome {
+      margin-bottom: 20px;
+    }
+
+    body {
+      text-align: justify;
+    }
+  </style>
+
+</head>

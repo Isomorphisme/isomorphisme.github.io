@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+
+<div class="rowhome">
+  <div class="columnhome columnhome-1">
+    
+    <table class="tablehome">
+    <tbody><tr valign="top"> <td><i>Address:</i></td> <td>
+      Institut for Matematiske Fag<br>
+      Københavns Universitet<br>
+      Universitetsparken 5<br>
+      2100 København Ø, Denmark</td> </tr>
+    <tr><td><i>Office:</i></td>  <td>04-4-03<br></td> </tr>
+    <tr><td><i>E-mail:</i></td>  <td> firstname-lastname (at) math.ku.dk</td> </tr>   
+  </tbody></table>
+
+  </div>
+  <div class="columnhome columnhome-2">
+    <img src="./images/photo.jpg" />
+  </div>
+</div> 
+
+ {{ content }}
+
+</div>
