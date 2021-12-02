@@ -12,7 +12,7 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Preprints**
 
-* An h-principle for complements of discriminants. *Summary: I investigate the homology of spaces of non-singular algebraic sections of vector bundles on smooth complex projective varieties. In a range, the homology is shown to be that of a more tractable object: continuous sections of an associated bundle. This allows for computations using the homotopical arsenal. You can see me on [YouTube](https://www.youtube.com/watch?v=y-IGGlVkj0k) talk about this work during the [workshop on configuration spaces](https://www.math.ku.dk/english/calendar/events/hhcs/) at the University of Copenhagen.*
+* [An h-principle for complements of discriminants](https://arxiv.org/abs/2112.00326). *Summary: I investigate the homology of spaces of non-singular algebraic sections of vector bundles on smooth complex projective varieties. In a range, the homology is shown to be that of a more tractable object: continuous sections of an associated bundle. This allows computations using the homotopical arsenal. You can see me on [YouTube](https://www.youtube.com/watch?v=y-IGGlVkj0k) talk about this work during the [workshop on configuration spaces](https://www.math.ku.dk/english/calendar/events/hhcs/) at the University of Copenhagen.*
 
 #### **Teaching**
 
