@@ -14,8 +14,22 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 * [An h-principle for complements of discriminants](https://arxiv.org/abs/2112.00326). *Summary: I investigate the homology of spaces of non-singular algebraic sections of vector bundles on smooth complex projective varieties. In a range, the homology is shown to be that of a more tractable object: continuous sections of an associated bundle. This allows computations using the homotopical arsenal. You can see me on [YouTube](https://www.youtube.com/watch?v=y-IGGlVkj0k) talk about this work during the [workshop on configuration spaces](https://www.math.ku.dk/english/calendar/events/hhcs/) at the University of Copenhagen.*
 
+#### **Talks**
+
+* (13th April 2022) [Representation Theory / Number Theory Seminar](https://www.math.utah.edu/~bakic/seminar.html), Utah.
+* (17th March 2022) [Geometric Structures Research Seminar](https://sites.google.com/view/geometric-structures/), SISSA, Trieste.
+* (23rd February 2022) [Purdue Topology Seminar](https://sites.google.com/view/purduetopologyseminar/home), Purdue.
+* (18th November 2021) [Homology and Homotopy of Configuration Spaces](https://www.math.ku.dk/english/calendar/events/hhcs/), Copenhagen.
+
+
 #### **Teaching**
 
+<figure style="float:left; margin-right:2em; margin-bottom:1.5em;">
+<img src="images/disciple.gif">
+<figcaption style="text-align: center; font-size: 0.5em; font-style: italic;">Basile, Raoul, Bernadette, and Yorrick<br/>(in Léonard by Turk & De Groot)</figcaption>
+</figure>
+
+* Geometric Topology, 2021-2022 (Master's course, University of Copenhagen) -- Teaching assistant.
 * Topics in Mathematics for the Travelling Student, 2021-2022 (in French, University of Copenhagen) -- Lecturer. (See the [webpage](https://www.math.ku.dk/uddannelser/for-the-traveling-student/) for more.)
 * Algebraic Topology 1.5, 2020-2021 (Master's course, University of Copenhagen) -- Teaching assistant.  
 * Algebraic Topology 1, 2020-2021 (Master's course, University of Copenhagen) -- Teaching assistant.  
