@@ -24,11 +24,6 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Teaching**
 
-<figure style="float:left; margin-right:2em; margin-bottom:1.5em;">
-<img src="images/disciple.gif">
-<figcaption style="text-align: center; font-size: 0.5em; font-style: italic;">Basile, Raoul, Bernadette, and Yorrick<br/>(in Léonard by Turk & De Groot)</figcaption>
-</figure>
-
 * Geometric Topology, 2021-2022 (Master's course, University of Copenhagen) -- Teaching assistant.
 * Topics in Mathematics for the Travelling Student, 2021-2022 (in French, University of Copenhagen) -- Lecturer. (See the [webpage](https://www.math.ku.dk/uddannelser/for-the-traveling-student/) for more.)
 * Algebraic Topology 1.5, 2020-2021 (Master's course, University of Copenhagen) -- Teaching assistant.  
