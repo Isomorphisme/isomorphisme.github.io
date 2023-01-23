@@ -16,6 +16,7 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Talks**
 
+* (10th February 2023) [Algebra and Geometry Seminar](https://www.math-stockholm.se/en/kalender/alexis-aumonier-moduli-of-embedded-hypersurfaces-1.1217940?date=2023-01-10&orgdate=2023-01-08&length=1&orglength=0), Stockholm.
 * (13th April 2022) [Representation Theory / Number Theory Seminar](https://www.math.utah.edu/~bakic/seminar.html), Utah.
 * (17th March 2022) [Geometric Structures Research Seminar](https://sites.google.com/view/geometric-structures/), SISSA, Trieste.
 * (23rd February 2022) [Purdue Topology Seminar](https://sites.google.com/view/purduetopologyseminar/home), Purdue.
@@ -24,8 +25,9 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Teaching**
 
+* Topics in Mathematics for the Travelling Student, 2022-2023 (in French, University of Copenhagen) -- Lecturer. (See the [webpage](https://www.math.ku.dk/uddannelser/for-the-traveling-student/) for more.)
 * Geometric Topology, 2021-2022 (Master's course, University of Copenhagen) -- Teaching assistant.
-* Topics in Mathematics for the Travelling Student, 2021-2022 (in French, University of Copenhagen) -- Lecturer. (See the [webpage](https://www.math.ku.dk/uddannelser/for-the-traveling-student/) for more.)
+* Topics in Mathematics for the Travelling Student, 2021-2022 (in French, University of Copenhagen) -- Lecturer.
 * Algebraic Topology 1.5, 2020-2021 (Master's course, University of Copenhagen) -- Teaching assistant.  
 * Algebraic Topology 1, 2020-2021 (Master's course, University of Copenhagen) -- Teaching assistant.  
 * Topology, 2019-2020 (Bachelor's course, University of Copenhagen) -- Teaching assistant.  
