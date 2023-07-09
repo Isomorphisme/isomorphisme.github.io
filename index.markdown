@@ -16,6 +16,7 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Talks**
 
+* (28th June 2023) [Homotopy Theory in Trondheim](https://folk.ntnu.no/runegha/htpyintrd.html), Trondheim.
 * (7th April 2023) [Séminaire de Topologie](https://math.univ-lille.fr/detail-event/tba-alexis-aumonier), Lille.
 * (10th January 2023) [Algebra and Geometry Seminar](https://www.math-stockholm.se/en/kalender/alexis-aumonier-moduli-of-embedded-hypersurfaces-1.1217940?date=2023-01-10&orgdate=2023-01-08&length=1&orglength=0), Stockholm.
 * (13th April 2022) [Representation Theory / Number Theory Seminar](https://www.math.utah.edu/~bakic/seminar.html), Utah.
@@ -26,6 +27,7 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Teaching**
 
+* Algebraic Geometry 1, 2022-2023 (Master's course, University of Copenhagen) -- Teaching assistant. 
 * Topics in Mathematics for the Travelling Student, 2022-2023 (in French, University of Copenhagen) -- Lecturer. (See the [webpage](https://www.math.ku.dk/uddannelser/for-the-traveling-student/) for more.)
 * Geometric Topology, 2021-2022 (Master's course, University of Copenhagen) -- Teaching assistant.
 * Topics in Mathematics for the Travelling Student, 2021-2022 (in French, University of Copenhagen) -- Lecturer.
