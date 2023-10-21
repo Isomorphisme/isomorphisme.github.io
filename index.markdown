@@ -4,7 +4,7 @@
 layout: home
 ---
 
-I am a PhD student in mathematics at [Københavns Universitet](https://geotop.math.ku.dk/) under the supervision of [Søren Galatius](https://sorengalatius.com/).
+I am a postdoc in mathematics at the [University of Cambridge](https://www.dpmms.cam.ac.uk/) in the group of [Oscar Randal-Williams](https://www.dpmms.cam.ac.uk/~or257/). Before that, I was a PhD student at [Københavns Universitet](https://geotop.math.ku.dk/) under the supervision of [Søren Galatius](https://sorengalatius.com/).
 
 #### **Research Interests**
 I am interested in interactions between algebraic topology and algebraic geometry. My current work focuses on using homotopy theoretic methods to uncover homological stability phenomena for moduli spaces coming from complex algebraic geometry. More broadly, I am also interested in moduli spaces of manifolds, embedding calculus and other applications of homotopy theory to geometry. I can occasionally be seen daydreaming about point counting and enumerative geometry.
