@@ -16,6 +16,8 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Talks**
 
+* (24th October 2023) [Conférence du GDR Théorie de l'Homotopie et Applications](https://indico.math.cnrs.fr/event/9770/page/702-programme-scientifique), Lille.
+* (18th October 2023) [Differential Geometry and Topology Seminar](http://talks.cam.ac.uk/talk/index/207082), Cambridge.
 * (24th July 2023) [Young Topologists Meeting 2023](https://ytm2023.epfl.ch/), Lausanne.
 * (28th June 2023) [Homotopy Theory in Trondheim](https://folk.ntnu.no/runegha/htpyintrd.html), Trondheim.
 * (7th April 2023) [Séminaire de Topologie](https://math.univ-lille.fr/detail-event/tba-alexis-aumonier), Lille.
