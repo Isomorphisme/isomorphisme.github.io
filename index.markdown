@@ -12,6 +12,8 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Preprints**
 
+
+* [Scanning the moduli of smooth hypersurfaces](https://arxiv.org/abs/2311.07560). *Summary: I construct a scanning map from the locus of smooth hypersurfaces in the Hilbert scheme of a smooth complex projective variety, and show that it induces an isomorphism in integral homology in a range of degrees. This allows rational computations of homology and leads to homological stability in some cases. I also show that this stable cohomology coincides with that of a more topological moduli space, using tangential structures and the work of Galatius and Randal-Williams on classifying spaces of diffeomorphism groups.*
 * [An h-principle for complements of discriminants](https://arxiv.org/abs/2112.00326). *Summary: I investigate the homology of spaces of non-singular algebraic sections of vector bundles on smooth complex projective varieties. In a range, the homology is shown to be that of a more tractable object: continuous sections of an associated bundle. This allows computations using the homotopical arsenal. You can see me on [YouTube](https://www.youtube.com/watch?v=y-IGGlVkj0k) talk about this work during the [workshop on configuration spaces](https://www.math.ku.dk/english/calendar/events/hhcs/) at the University of Copenhagen.*
 
 #### **Talks**
