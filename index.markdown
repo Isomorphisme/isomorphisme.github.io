@@ -8,7 +8,7 @@ I am a postdoc in mathematics at the [University of Cambridge](https://www.dpmms
 
 #### **Research Interests**
 I am interested in interactions between algebraic topology and algebraic geometry. My current work focuses on using homotopy theoretic methods to uncover homological stability phenomena for moduli spaces coming from complex algebraic geometry. More broadly, I am also interested in moduli spaces of manifolds, embedding calculus and other applications of homotopy theory to geometry. I can occasionally be seen daydreaming about point counting and enumerative geometry.
-
+ 
 
 #### **Preprints**
 
@@ -16,10 +16,16 @@ I am interested in interactions between algebraic topology and algebraic geometr
 * [The topology of spaces of holomorphic maps to projective space](https://arxiv.org/abs/2402.05500). *Summary: I show that the spaces of holomorphic and continuous maps from a smooth complex projective variety to a projective space have isomorphic homology in a range depending on the degree of the maps.*
 * [Homological stability for the space of hypersurfaces with marked points](https://arxiv.org/abs/2312.03355), with [Ronno Das](https://ronnod.as/). *Summary: We construct a commutative differential graded algebra which computes in a range of degrees the cohomology of the universal smooth hypersurface bundle with marked points. Explicit computations can then be made using a computer. Our result is a topological counterpart to results of Howe on motivic random hypersurfaces, and thus strengthens the analogy between motivic statistics and homological stability.*
 * [Scanning the moduli of smooth hypersurfaces](https://arxiv.org/abs/2311.07560). *Summary: I construct a scanning map from the locus of smooth hypersurfaces in the Hilbert scheme of a smooth complex projective variety, and show that it induces an isomorphism in integral homology in a range of degrees. This allows rational computations of homology and leads to homological stability in some cases. I also show that this stable cohomology coincides with that of a more topological moduli space, using tangential structures and the work of Galatius and Randal-Williams on classifying spaces of diffeomorphism groups.*
-* [An h-principle for complements of discriminants](https://arxiv.org/abs/2112.00326). *Summary: I investigate the homology of spaces of non-singular algebraic sections of vector bundles on smooth complex projective varieties. In a range, the homology is shown to be that of a more tractable object: continuous sections of an associated bundle. This allows computations using the homotopical arsenal. You can see me on [YouTube](https://www.youtube.com/watch?v=y-IGGlVkj0k) talk about this work during the [workshop on configuration spaces](https://www.math.ku.dk/english/calendar/events/hhcs/) at the University of Copenhagen.*
+
+
+### **Publication**
+
+* [An h-principle for complements of discriminants](https://arxiv.org/abs/2112.00326). To appear in Geometry & Topology. *Summary: I investigate the homology of spaces of non-singular algebraic sections of vector bundles on smooth complex projective varieties. In a range, the homology is shown to be that of a more tractable object: continuous sections of an associated bundle. This allows computations using the homotopical arsenal. You can see me on [YouTube](https://www.youtube.com/watch?v=y-IGGlVkj0k) talk about this work during the [workshop on configuration spaces](https://www.math.ku.dk/english/calendar/events/hhcs/) at the University of Copenhagen.*
+
 
 #### **Talks**
 
+* (24th April 2024) [Oberseminar Topologie](https://www.uni-muenster.de/Topologie/en/researchseminars/ostoposs24.html), Münster.
 * (24th November 2023) [Operadic Methods in Geometry](https://geoffroy.horel.org/OMG.html), Barcelona.
 * (24th October 2023) [Conférence du GDR Théorie de l'Homotopie et Applications](https://indico.math.cnrs.fr/event/9770/page/702-programme-scientifique), Lille.
 * (18th October 2023) [Differential Geometry and Topology Seminar](http://talks.cam.ac.uk/talk/index/207082), Cambridge.
