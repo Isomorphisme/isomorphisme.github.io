@@ -4,7 +4,7 @@
 layout: home
 ---
 
-I am a postdoc in mathematics at the [University of Cambridge](https://www.dpmms.cam.ac.uk/) in the group of [Oscar Randal-Williams](https://www.dpmms.cam.ac.uk/~or257/). Before that, I was a PhD student at [Københavns Universitet](https://geotop.math.ku.dk/) under the supervision of [Søren Galatius](https://sorengalatius.com/).
+I am a postdoc in mathematics at [Stockholms Universitet](https://www.su.se/department-of-mathematics/) in the group of [Dan Petersen](https://sites.google.com/site/danpetersenmath/). Before that I was a postdoc at the [University of Cambridge](https://www.dpmms.cam.ac.uk/) in the group of [Oscar Randal-Williams](https://www.dpmms.cam.ac.uk/~or257/), and even before I was a PhD student at [Københavns Universitet](https://geotop.math.ku.dk/) under the supervision of [Søren Galatius](https://sorengalatius.com/).
 
 #### **Research Interests**
 I am interested in interactions between algebraic topology and algebraic geometry. My current work focuses on using homotopy theoretic methods to uncover homological stability phenomena for moduli spaces coming from complex algebraic geometry. More broadly, I am also interested in moduli spaces of manifolds, embedding calculus and other applications of homotopy theory to geometry. I can occasionally be seen daydreaming about point counting and enumerative geometry.
@@ -25,6 +25,7 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Talks**
 
+* (21st August 2024) [Topology of moduli spaces](https://www.math.ku.dk/english/calendar/events/topology-of-moduli-spaces/), Copenhagen.
 * (24th April 2024) [Oberseminar Topologie](https://www.uni-muenster.de/Topologie/en/researchseminars/ostoposs24.html), Münster.
 * (24th November 2023) [Operadic Methods in Geometry](https://geoffroy.horel.org/OMG.html), Barcelona.
 * (24th October 2023) [Conférence du GDR Théorie de l'Homotopie et Applications](https://indico.math.cnrs.fr/event/9770/page/702-programme-scientifique), Lille.
