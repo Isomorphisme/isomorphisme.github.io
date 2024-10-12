@@ -25,6 +25,7 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Talks**
 
+* (8th October 2024) [Topology Seminar](https://www.math-stockholm.se/en/kalender/alexis-aumonier-topology-of-spaces-of-holomorphic-maps-to-projective-space-1.1359144), Stockholm.
 * (21st August 2024) [Topology of moduli spaces](https://www.math.ku.dk/english/calendar/events/topology-of-moduli-spaces/), Copenhagen.
 * (24th April 2024) [Oberseminar Topologie](https://www.uni-muenster.de/Topologie/en/researchseminars/ostoposs24.html), Münster.
 * (24th November 2023) [Operadic Methods in Geometry](https://geoffroy.horel.org/OMG.html), Barcelona.
