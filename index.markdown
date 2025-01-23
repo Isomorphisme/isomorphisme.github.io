@@ -44,6 +44,7 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Teaching**
 
+* [Foundations of analysis](https://www.su.se/english/search-courses-and-programmes/mm5021-1.412879?semester=HT24&eventcode=48138), 2024 (Bachelor's course, University of Stockholm) -- Teaching assistant.
 * Algebraic Geometry 1, 2022-2023 (Master's course, University of Copenhagen) -- Teaching assistant. 
 * Topics in Mathematics for the Travelling Student, 2022-2023 (in French, University of Copenhagen) -- Lecturer. (See the [webpage](https://www.math.ku.dk/uddannelser/for-the-traveling-student/) for more.)
 * Geometric Topology, 2021-2022 (Master's course, University of Copenhagen) -- Teaching assistant.
