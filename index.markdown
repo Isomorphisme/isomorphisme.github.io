@@ -12,19 +12,20 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Preprints**
 
-* Appendix to [Chow ring of the stack of plane nodal curves](https://arxiv.org/abs/2405.11943) by [Alessio Cela](https://people.math.ethz.ch/~alcela/), [Ajith Urundolil Kumaran](https://sites.google.com/view/ajithukumaran/home), [Xiaohan Yan](https://math.berkeley.edu/~xiaohan/). *Summary: They fully compute the Chow ring of the stack of planar nodal curves of a given degree. In the appendix, I apply an h-principle to study the cycle class map to cohomology.*
 * [The topology of spaces of holomorphic maps to projective space](https://arxiv.org/abs/2402.05500). *Summary: I show that the spaces of holomorphic and continuous maps from a smooth complex projective variety to a projective space have isomorphic homology in a range depending on the degree of the maps.*
 * [Homological stability for the space of hypersurfaces with marked points](https://arxiv.org/abs/2312.03355), with [Ronno Das](https://ronnod.as/). *Summary: We construct a commutative differential graded algebra which computes in a range of degrees the cohomology of the universal smooth hypersurface bundle with marked points. Explicit computations can then be made using a computer. Our result is a topological counterpart to results of Howe on motivic random hypersurfaces, and thus strengthens the analogy between motivic statistics and homological stability.*
 * [Scanning the moduli of smooth hypersurfaces](https://arxiv.org/abs/2311.07560). *Summary: I construct a scanning map from the locus of smooth hypersurfaces in the Hilbert scheme of a smooth complex projective variety, and show that it induces an isomorphism in integral homology in a range of degrees. This allows rational computations of homology and leads to homological stability in some cases. I also show that this stable cohomology coincides with that of a more topological moduli space, using tangential structures and the work of Galatius and Randal-Williams on classifying spaces of diffeomorphism groups.*
 
 
-#### **Publication**
+#### **Publications**
 
+* Appendix to [Chow ring of the stack of plane nodal curves](https://academic.oup.com/imrn/article/2025/6/rnaf048/8068110) ([ArXiv](https://arxiv.org/abs/2405.11943)) by [Alessio Cela](https://people.math.ethz.ch/~alcela/), [Ajith Urundolil Kumaran](https://sites.google.com/view/ajithukumaran/home), [Xiaohan Yan](https://math.berkeley.edu/~xiaohan/). International Mathematics Research Notices (IMRN).  *Summary: They fully compute the Chow ring of the stack of planar nodal curves of a given degree. In the appendix, I apply an h-principle to study the cycle class map to cohomology.*
 * [An h-principle for complements of discriminants](https://arxiv.org/abs/2112.00326). To appear in Geometry & Topology. *Summary: I investigate the homology of spaces of non-singular algebraic sections of vector bundles on smooth complex projective varieties. In a range, the homology is shown to be that of a more tractable object: continuous sections of an associated bundle. This allows computations using the homotopical arsenal. You can see me on [YouTube](https://www.youtube.com/watch?v=y-IGGlVkj0k) talk about this work during the [workshop on configuration spaces](https://www.math.ku.dk/english/calendar/events/hhcs/) at the University of Copenhagen.*
 
 
 #### **Talks**
 
+* (10th March 2025) [Moduli and Friends II](https://mdp.ac/pce2023/seminar.html), Online.
 * (30th January 2025) [Geometry and Topology seminar](https://www.uu.se/en/department/mathematics/research/geometry-and-physics/seminar-series-in-geometry-and-topology-), Uppsala.
 * (9th January 2025) [Séminaire de Topologie](https://www.math.univ-paris13.fr/), LAGA, Paris Nord.
 * (8th October 2024) [Topology Seminar](https://www.math-stockholm.se/en/kalender/alexis-aumonier-topology-of-spaces-of-holomorphic-maps-to-projective-space-1.1359144), Stockholm.
