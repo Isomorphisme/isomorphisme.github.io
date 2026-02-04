@@ -27,6 +27,7 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Talks**
 
+* (3rd November 2025) [Manifolds, homotopy theory, and related topics](https://sites.google.com/view/mhtrt/schedule-in-2025), Online.
 * (10th March 2025) [Moduli and Friends II](https://mdp.ac/pce2023/seminar.html), Online.
 * (30th January 2025) [Geometry and Topology seminar](https://www.uu.se/en/department/mathematics/research/geometry-and-physics/seminar-series-in-geometry-and-topology-), Uppsala.
 * (9th January 2025) [Séminaire de Topologie](https://www.math.univ-paris13.fr/), LAGA, Paris Nord.
