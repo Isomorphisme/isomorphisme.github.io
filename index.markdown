@@ -27,30 +27,30 @@ I am interested in interactions between algebraic topology and algebraic geometr
 		</details>
 	</li>
 	<li>
-		<a href="https://www.sciencedirect.com/science/article/pii/S0001870825005845">The topology of spaces of holomorphic maps to projective space</a> (<a href="https://arxiv.org/abs/2402.05500">ArXiv</a>). Advances in Mathematics.
-		<details style="display: inline-block; text-align: justify;">
-			<summary><i>Summary</i></summary>
+		<a href="https://www.sciencedirect.com/science/article/pii/S0001870825005845">The topology of spaces of holomorphic maps to projective space</a> (<a href="https://arxiv.org/abs/2402.05500">ArXiv</a>).
+		<details style="display: inline;">
+			<summary style="cursor: pointer; list-style: none; display: inline;">Advances in Mathematics.</summary>
 			<i>I show that the spaces of holomorphic and continuous maps from a smooth complex projective variety to a projective space have isomorphic homology in a range depending on the degree of the maps.</i>
 		</details>
 	</li>
 	<li>
-		<a href="https://www.mscand.dk/article/view/158293">Families of algebraic and continuous maps to P<sup>m</sup></a> (<a href="https://arxiv.org/abs/2504.10643">ArXiv</a>). Mathematica Scandinavica.
-		<details style="display: inline-block; text-align: justify;">
-			<summary><i>Summary</i></summary>
+		<a href="https://www.mscand.dk/article/view/158293">Families of algebraic and continuous maps to P<sup>m</sup></a> (<a href="https://arxiv.org/abs/2504.10643">ArXiv</a>). 
+		<details style="display: inline;">
+			<summary style="cursor: pointer; list-style: none; display: inline;">Mathematica Scandinavica.</summary>
 			<i>I explain how the comparison between algebraic and continuous maps to projective space works when the source variety varies in a moduli.</i>
 		</details>
 	</li>
 	<li>
-		Appendix to <a href="https://academic.oup.com/imrn/article/2025/6/rnaf048/8068110">Chow ring of the stack of plane nodal curves</a> (<a href="https://arxiv.org/abs/2405.11943">ArXiv</a>) by <a href="https://sites.google.com/view/alessiocela/home">Alessio Cela</a>, <a href="https://sites.google.com/view/ajithukumaran/home">Ajith Urundolil Kumaran</a>, <a href="https://sites.google.com/view/xiaohanyan">Xiaohan Yan</a>. International Mathematics Research Notices (IMRN).
-		<details style="display: inline-block; text-align: justify;">
-			<summary><i>Summary</i></summary>
+		Appendix to <a href="https://academic.oup.com/imrn/article/2025/6/rnaf048/8068110">Chow ring of the stack of plane nodal curves</a> (<a href="https://arxiv.org/abs/2405.11943">ArXiv</a>) by <a href="https://sites.google.com/view/alessiocela/home">Alessio Cela</a>, <a href="https://sites.google.com/view/ajithukumaran/home">Ajith Urundolil Kumaran</a>, <a href="https://sites.google.com/view/xiaohanyan">Xiaohan Yan</a>.
+		<details style="display: inline;">
+			<summary style="cursor: pointer; list-style: none; display: inline;">International Mathematics Research Notices (IMRN).</summary>
 			<i>They fully compute the Chow ring of the stack of planar nodal curves of a given degree. In the appendix, I apply an h-principle to study the cycle class map to cohomology.</i>
 		</details>
 	</li>
 	<li>
-		<a href="https://msp.org/gt/2025/29-3/p06.xhtml">An h-principle for complements of discriminants</a> (<a href="https://arxiv.org/abs/2112.00326">ArXiv</a>). Geometry & Topology.
-		<details style="display: inline-block; text-align: justify;">
-			<summary><i>Summary</i></summary>
+		<a href="https://msp.org/gt/2025/29-3/p06.xhtml">An h-principle for complements of discriminants</a> (<a href="https://arxiv.org/abs/2112.00326">ArXiv</a>).
+		<details style="display: inline;">
+			<summary style="cursor: pointer; list-style: none; display: inline;">Geometry & Topology.</summary>
 			<i>Summary: I investigate the homology of spaces of non-singular algebraic sections of vector bundles on smooth complex projective varieties. In a range, the homology is shown to be that of a more tractable object: continuous sections of an associated bundle. This allows computations using the homotopical arsenal. You can see me on <a href="https://www.youtube.com/watch?v=y-IGGlVkj0k">YouTube</a> talk about this work during the <a href="https://www.math.ku.dk/english/calendar/events/hhcs/">workshop on configuration spaces</a> at the University of Copenhagen.</i>
 		</details>
 	</li>
