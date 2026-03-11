@@ -18,10 +18,10 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Publications**
 
-<ul>
+<ul style="text-align: left;">
 	<li>
 		<a href="https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/scanning-the-moduli-of-smooth-hypersurfaces/2558E34864BFC20D82DEC1BFBBB24809">Scanning the moduli of smooth hypersurfaces</a> (<a href="https://arxiv.org/abs/2311.07560">ArXiv</a>). Forum of Mathematics, Sigma.
-		<details>
+		<details style="display: inline-block;">
 			<summary>Summary</summary>
 			<i>I construct a scanning map from the locus of smooth hypersurfaces in the Hilbert scheme of a smooth complex projective variety, and show that it induces an isomorphism in integral homology in a range of degrees. This allows rational computations of homology and leads to homological stability in some cases. I also show that this stable cohomology coincides with that of a more topological moduli space, using tangential structures and the work of Galatius and Randal-Williams on classifying spaces of diffeomorphism groups.</i>
 		</details>
