@@ -18,9 +18,10 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Publications**
 
-* [Scanning the moduli of smooth hypersurfaces](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/scanning-the-moduli-of-smooth-hypersurfaces/2558E34864BFC20D82DEC1BFBBB24809) ([ArXiV](https://arxiv.org/abs/2311.07560)). Forum of Mathematics, Sigma. 
-<details><summary>*Summary*</summary>
-I construct a scanning map from the locus of smooth hypersurfaces in the Hilbert scheme of a smooth complex projective variety, and show that it induces an isomorphism in integral homology in a range of degrees. This allows rational computations of homology and leads to homological stability in some cases. I also show that this stable cohomology coincides with that of a more topological moduli space, using tangential structures and the work of Galatius and Randal-Williams on classifying spaces of diffeomorphism groups.*
+* [Scanning the moduli of smooth hypersurfaces](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/scanning-the-moduli-of-smooth-hypersurfaces/2558E34864BFC20D82DEC1BFBBB24809) ([ArXiV](https://arxiv.org/abs/2311.07560)). Forum of Mathematics, Sigma. <details><summary>Summary</summary>
+
+*I construct a scanning map from the locus of smooth hypersurfaces in the Hilbert scheme of a smooth complex projective variety, and show that it induces an isomorphism in integral homology in a range of degrees. This allows rational computations of homology and leads to homological stability in some cases. I also show that this stable cohomology coincides with that of a more topological moduli space, using tangential structures and the work of Galatius and Randal-Williams on classifying spaces of diffeomorphism groups.*
+
 </details>
 * [The topology of spaces of holomorphic maps to projective space](https://www.sciencedirect.com/science/article/pii/S0001870825005845) ([ArXiv](https://arxiv.org/abs/2402.05500)). Advances in Mathematics. *Summary: I show that the spaces of holomorphic and continuous maps from a smooth complex projective variety to a projective space have isomorphic homology in a range depending on the degree of the maps.*
 * [Families of algebraic and continuous maps to P<sup>m</sup>](https://www.mscand.dk/article/view/158293) ([ArXiv](https://arxiv.org/abs/2504.10643)). Mathematica Scandinavica. *Summary: I explain how the comparison between algebraic and continuous maps to projective space works when the source variety varies in a moduli.*
