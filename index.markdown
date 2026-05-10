@@ -62,6 +62,7 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 * (16th April 2026) [Manifolds and moduli](https://manifolds.math.tecnico.ulisboa.pt/), Lisbon.
 * (30th March -- 2nd April 2026) [Lectures on Geometric Topology](https://sites.google.com/view/vigneshsubramanian/seminars/lectures-on-geometric-topology), Utrecht.
+* (24th March 2026) [Topology Seminar](https://www.math.fsu.edu/~banerjee/topologyseminar_spring2026.html), Florida State University (online).
 * (3rd November 2025) [Manifolds, homotopy theory, and related topics](https://sites.google.com/view/mhtrt/schedule-in-2025), Online.
 * (10th March 2025) [Moduli and Friends II](https://mdp.ac/pce2023/seminar.html), Online.
 * (30th January 2025) [Geometry and Topology seminar](https://www.uu.se/en/department/mathematics/research/geometry-and-physics/seminar-series-in-geometry-and-topology-), Uppsala.
@@ -76,7 +77,7 @@ I am interested in interactions between algebraic topology and algebraic geometr
 * (28th June 2023) [Homotopy Theory in Trondheim](https://folk.ntnu.no/runegha/htpyintrd.html), Trondheim.
 * (7th April 2023) [Séminaire de Topologie](https://math.univ-lille.fr/detail-event/tba-alexis-aumonier), Lille.
 * (10th January 2023) [Algebra and Geometry Seminar](https://www.math-stockholm.se/en/kalender/alexis-aumonier-moduli-of-embedded-hypersurfaces-1.1217940?date=2023-01-10&orgdate=2023-01-08&length=1&orglength=0), Stockholm.
-* (13th April 2022) [Representation Theory / Number Theory Seminar](https://www.math.utah.edu/~bakic/seminar.html), Utah.
+* (13th April 2022) [Representation Theory / Number Theory Seminar](https://www.math.utah.edu/~bakic/seminar.html), Utah (online).
 * (17th March 2022) [Geometric Structures Research Seminar](https://sites.google.com/view/geometric-structures/), SISSA, Trieste.
 * (23rd February 2022) [Purdue Topology Seminar](https://sites.google.com/view/purduetopologyseminar/home), Purdue.
 * (18th November 2021) [Homology and Homotopy of Configuration Spaces](https://www.math.ku.dk/english/calendar/events/hhcs/), Copenhagen.
