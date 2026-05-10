@@ -78,8 +78,8 @@ I am interested in interactions between algebraic topology and algebraic geometr
 * (7th April 2023) [Séminaire de Topologie](https://math.univ-lille.fr/detail-event/tba-alexis-aumonier), Lille.
 * (10th January 2023) [Algebra and Geometry Seminar](https://www.math-stockholm.se/en/kalender/alexis-aumonier-moduli-of-embedded-hypersurfaces-1.1217940?date=2023-01-10&orgdate=2023-01-08&length=1&orglength=0), Stockholm.
 * (13th April 2022) [Representation Theory / Number Theory Seminar](https://www.math.utah.edu/~bakic/seminar.html), Utah (online).
-* (17th March 2022) [Geometric Structures Research Seminar](https://sites.google.com/view/geometric-structures/), SISSA, Trieste.
-* (23rd February 2022) [Purdue Topology Seminar](https://sites.google.com/view/purduetopologyseminar/home), Purdue.
+* (17th March 2022) [Geometric Structures Research Seminar](https://sites.google.com/view/geometric-structures/), SISSA, Trieste (online).
+* (23rd February 2022) [Purdue Topology Seminar](https://sites.google.com/view/purduetopologyseminar/home), Purdue (online).
 * (18th November 2021) [Homology and Homotopy of Configuration Spaces](https://www.math.ku.dk/english/calendar/events/hhcs/), Copenhagen.
 
 
