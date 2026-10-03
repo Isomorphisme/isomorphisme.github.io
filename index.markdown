@@ -10,15 +10,20 @@ I am a postdoc in mathematics at [Stockholms Universitet](https://www.su.se/depa
 I am interested in interactions between algebraic topology and algebraic geometry. My current work focuses on using homotopy theoretic methods to uncover homological stability phenomena for moduli spaces coming from complex algebraic geometry. More broadly, I am also interested in moduli spaces of manifolds, embedding calculus and other applications of homotopy theory to geometry. I can occasionally be seen daydreaming about point counting and enumerative geometry.
  
 
-#### **Preprints**
+#### **Preprint**
 
 * [Weiss derivatives of holomorphic maps](https://arxiv.org/abs/2505.03731). *Summary: I use the functoriality in V of the projective space P(V) to apply the unitary calculus of Weiss to the study of the stable homotopy type of the space of holomorphic maps to projective space. (Some very natural topological posets of projective subspaces appear, I'd be very happy to know if they show up in other settings as well. Please tell me if you know anything about them!)*
-* [Homological stability for the space of hypersurfaces with marked points](https://arxiv.org/abs/2312.03355), with [Ronno Das](https://ronnod.as/). *Summary: We construct a commutative differential graded algebra which computes in a range of degrees the cohomology of the universal smooth hypersurface bundle with marked points. Explicit computations can then be made using a computer. Our result is a topological counterpart to results of Howe on motivic random hypersurfaces, and thus strengthens the analogy between motivic statistics and homological stability.*
-
 
 #### **Publications**
 
 <ul>
+	<li>
+		<a href="https://arxiv.org/abs/2312.03355">Homological stability for the space of hypersurfaces with marked points</a> (<a href="https://arxiv.org/abs/2312.03355">ArXiv</a>) with <a href="https://ronnod.as/">Ronno Das</a>.
+		<details style="display: inline;">
+			<summary style="cursor: pointer; list-style: none; display: inline;">Transactions of the American Mathematical Society (to appear)</summary>
+			<i>We construct a commutative differential graded algebra which computes in a range of degrees the cohomology of the universal smooth hypersurface bundle with marked points. Explicit computations can then be made using a computer. Our result is a topological counterpart to results of Howe on motivic random hypersurfaces, and thus strengthens the analogy between motivic statistics and homological stability.</i>
+		</details>
+	</li>
 	<li>
 		<a href="https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/scanning-the-moduli-of-smooth-hypersurfaces/2558E34864BFC20D82DEC1BFBBB24809">Scanning the moduli of smooth hypersurfaces</a> (<a href="https://arxiv.org/abs/2311.07560">ArXiv</a>).
 		<details style="display: inline;">
@@ -85,7 +90,8 @@ I am interested in interactions between algebraic topology and algebraic geometr
 
 #### **Teaching**
 
-* [Abstract Algebra](https://www.su.se/english/education/course-catalogue/mm/mm5020), 2026 (Bachelor's course, University of Stockholm) -- Teaching assistant.
+* [Abstract Algebra](https://www.su.se/english/education/course-catalogue/mm/mm5020), Summer 2026 (Bachelor's course, University of Stockholm) -- Lecturer.
+* [Abstract Algebra](https://www.su.se/english/education/course-catalogue/mm/mm5020), Winter 2026 (Bachelor's course, University of Stockholm) -- Teaching assistant.
 * [Foundations of analysis](https://www.su.se/english/search-courses-and-programmes/mm5021-1.412879?semester=HT24&eventcode=48138), 2024 (Bachelor's course, University of Stockholm) -- Teaching assistant.
 * Algebraic Geometry 1, 2022-2023 (Master's course, University of Copenhagen) -- Teaching assistant. 
 * Topics in Mathematics for the Travelling Student, 2022-2023 (in French, University of Copenhagen) -- Lecturer. (See the [webpage](https://www.math.ku.dk/uddannelser/for-the-traveling-student/) for more.)
