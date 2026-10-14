@@ -10,8 +10,9 @@ I am a postdoc in mathematics at [Stockholms Universitet](https://www.su.se/depa
 I am interested in interactions between algebraic topology and algebraic geometry. My current work focuses on using homotopy theoretic methods to uncover homological stability phenomena for moduli spaces coming from complex algebraic geometry. More broadly, I am also interested in moduli spaces of manifolds, embedding calculus and other applications of homotopy theory to geometry. I can occasionally be seen daydreaming about point counting and enumerative geometry.
  
 
-#### **Preprint**
+#### **Preprints**
 
+* [Motivic and cohomological stabilisation of the Quot scheme of points](https://arxiv.org/abs/2601.20804) with [Michele Graffeo](https://graffeomichele.github.io/), [Sergej Monavari](https://sites.google.com/view/sergej-monavari-math/home-page), [Riccardo Moschetti](https://sites.google.com/site/moschettiriccardo/), [Andrea T. Ricolfi](https://aricolfi.github.io/). *Summary: We study what happens to the Quot scheme of points in affine space when the ambient dimension tends to infinity.*
 * [Weiss derivatives of holomorphic maps](https://arxiv.org/abs/2505.03731). *Summary: I use the functoriality in V of the projective space P(V) to apply the unitary calculus of Weiss to the study of the stable homotopy type of the space of holomorphic maps to projective space. (Some very natural topological posets of projective subspaces appear, I'd be very happy to know if they show up in other settings as well. Please tell me if you know anything about them!)*
 
 #### **Publications**
