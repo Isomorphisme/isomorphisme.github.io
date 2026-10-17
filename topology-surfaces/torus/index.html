@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Four descriptions of the torus · Topology surfaces</title><link rel="stylesheet" href="style.css"><script src="geometry.js" defer></script><script src="app.js" defer></script></head>
+<body><main><header><nav class="back" aria-label="Main navigation"><a href="../index.html">Home</a><a href="../polygonal-presentations/index.html">Polygonal presentations ↗</a></nav><div class="eyebrow">Topology / The torus</div><h1>Four descriptions of the torus</h1><p>A square quotient, a translation quotient, a product of circles, and a surface of revolution.</p></header>
+<section id="torus-descriptions" aria-label="Four descriptions of the torus">
+<div class="section-title"><span class="eyebrow">One surface / Four equivalent descriptions</span><h2>One point, four descriptions of the torus</h2><p>Drag in the square or tiled plane, or change x and y. The two circles and the torus update together.</p></div>
+<div class="two torus-panels">
+<article class="card"><h3>The square with opposite sides identified</h3><canvas id="torus-square" aria-label="Draggable point in a square with matching opposite sides"></canvas><p class="caption">Opposite boundary points have the same image. At a corner, all four corners represent one point.</p></article>
+<article class="card"><h3>The translation quotient ℝ² / ℤ²</h3><canvas id="torus-lattice" aria-label="Draggable lattice view showing all integer translates of the selected point"></canvas><p class="caption">Every purple point is an integer translate of the same representative.</p></article>
+<article class="card"><h3>The product S¹ × S¹</h3><canvas id="torus-circles" aria-label="Two draggable circle coordinates for the product of circles"></canvas><div class="formula">(x, y) ↦ (e<sup>2πix</sup>, e<sup>2πiy</sup>)</div></article>
+<article class="card"><h3>The torus of revolution</h3><canvas id="torus-surface" aria-label="Rotatable torus with the corresponding point and its two coordinate loops"></canvas><p class="caption">Drag to rotate. <span class="orange">Orange: vary x.</span> <span class="blue">Blue: vary y.</span></p></article>
+</div>
+<div class="controls"><label>x <input id="torus-x" type="range" min="0" max="1000" value="180"></label><label>y <input id="torus-y" type="range" min="0" max="1000" value="280"></label><button data-play="torus-x">▶ Move x</button><button data-play="torus-y">▶ Move y</button><label class="inline"><input id="torus-loops" type="checkbox" checked> Coordinate loops</label></div>
+<div class="readout" id="torus-readout" aria-live="polite"></div>
+
+<div class="section-title"><span class="eyebrow">The torus of revolution</span><h2>Revolve a circle</h2><p>Rotate the radius-one circle centred at (2,0,0) in the xz-plane about the z-axis.</p></div>
+<div class="visual-with-text"><div class="stage"><canvas id="revolution" class="large" aria-label="A generating circle sweeping out a torus around the vertical axis"></canvas></div><aside><h3>Two independent angles</h3><div class="formula">F(θ, φ) =<br>((2 + cos φ) cos θ,<br>(2 + cos φ) sin θ,<br>sin φ)</div><p>The orange circle turns through θ. The purple point sits at the linked coordinate φ = 2πy.</p><p class="readout" id="revolution-readout"></p></aside></div>
+<div class="controls"><button data-play="revolution">▶ Revolve</button><label>Rotation θ <input id="revolution-progress" type="range" min="0" max="1000" value="0"></label><button data-stage="revolution:0">Start</button><button data-stage="revolution:1">Full torus</button></div>
+</section></main></body></html>

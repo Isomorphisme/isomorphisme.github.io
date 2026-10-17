@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Interactive topology models: polygonal presentations and four descriptions of the torus. Works offline.">
+  <title>Surfaces</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <header>
+    <div class="eyebrow">Topology / Interactive models</div>
+    <h1>Surfaces</h1>
+  </header>
+  <nav class="menu" aria-label="Choose a topic">
+    <a class="topic" href="polygonal-presentations/index.html" aria-labelledby="polygon-title">
+      <div class="illustration">
+        <svg viewBox="0 0 480 230" role="img" aria-label="The standard genus 2 octagon with four coloured edge pairs">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0L10 5L0 10Z" fill="context-stroke"/></marker></defs>
+<g transform="translate(0 -14)"><polygon points="201,34 279,34 335,90 335,168 279,224 201,224 145,168 145,90" fill="#d7e4d2"/>
+<path d="M201 34L279 34" fill="none" stroke="#b74d30" stroke-width="3.5"/>
+<path d="M232.2 34.0L247.8 34.0" fill="none" stroke="#b74d30" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M279 34L335 90" fill="none" stroke="#226eaa" stroke-width="3.5"/>
+<path d="M301.4 56.400000000000006L312.6 67.6" fill="none" stroke="#226eaa" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M335 90L335 168" fill="none" stroke="#b74d30" stroke-width="3.5"/>
+<path d="M335.0 136.8L335.0 121.2" fill="none" stroke="#b74d30" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M335 168L279 224" fill="none" stroke="#226eaa" stroke-width="3.5"/>
+<path d="M301.4 201.6L312.6 190.4" fill="none" stroke="#226eaa" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M279 224L201 224" fill="none" stroke="#8660a9" stroke-width="3.5"/>
+<path d="M247.8 224.0L232.2 224.0" fill="none" stroke="#8660a9" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M201 224L145 168" fill="none" stroke="#ae821c" stroke-width="3.5"/>
+<path d="M178.6 201.6L167.4 190.4" fill="none" stroke="#ae821c" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M145 168L145 90" fill="none" stroke="#8660a9" stroke-width="3.5"/>
+<path d="M145.0 121.2L145.0 136.8" fill="none" stroke="#8660a9" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M145 90L201 34" fill="none" stroke="#ae821c" stroke-width="3.5"/>
+<path d="M178.6 56.4L167.4 67.6" fill="none" stroke="#ae821c" stroke-width="3" marker-end="url(#arrow)"/>
+</g><g font-family="Georgia,serif" font-size="20" text-anchor="middle">
+<text x="240" y="17" fill="#b74d30">a</text>
+<text x="322" y="39" fill="#226eaa">b</text>
+<text x="356" y="120" fill="#b74d30">a⁻¹</text>
+<text x="326" y="210" fill="#226eaa">b⁻¹</text>
+<text x="240" y="229" fill="#8660a9">c</text>
+<text x="157" y="218" fill="#ae821c">d</text>
+<text x="122" y="120" fill="#8660a9">c⁻¹</text>
+<text x="153" y="39" fill="#ae821c">d⁻¹</text>
+</g></svg>
+      </div>
+      <div class="topic-copy">
+        <span class="eyebrow">Glue the edges</span>
+        <h2 id="polygon-title">Polygonal presentations</h2>
+        <p>Match edge arrows, watch polygons become surfaces, and compute their Euler characteristic, genus, or crosscaps.</p>
+        <p class="details">Four examples · Torus · Genus 2 · Klein bottle</p>
+        <span class="open">Open visualisations <span aria-hidden="true">→</span></span>
+      </div>
+    </a>
+    <a class="topic" href="torus/index.html" aria-labelledby="torus-title">
+      <div class="illustration">
+        <svg viewBox="0 0 480 230" role="img" aria-label="A square, a lattice, two circles and a torus represent the same surface">
+          <g fill="none" stroke-width="2">
+            <path d="M78 35H150V107H78Z" fill="#dce6d6" stroke="#b74d30"/><path d="M78 35V107M150 35V107" stroke="#226eaa"/>
+            <g stroke="#a4b59b" stroke-width="1.2"><path d="M303 28V112M331 28V112M359 28V112M387 28V112M303 28H387M303 56H387M303 84H387M303 112H387"/></g>
+            <circle cx="96" cy="177" r="25" stroke="#b74d30"/><circle cx="167" cy="177" r="25" stroke="#226eaa"/>
+            <ellipse cx="346" cy="174" rx="61" ry="35" fill="#cbdcc5" stroke="#688e70"/>
+            <ellipse cx="346" cy="170" rx="24" ry="12" fill="#e8ede4" stroke="#688e70"/>
+            <path d="M286 173C312 201 380 201 407 173M291 157C318 184 374 184 401 157" stroke="#91ac8e" stroke-width="1"/>
+            <ellipse cx="346" cy="174" rx="54" ry="22" stroke="#b74d30"/><ellipse cx="382" cy="175" rx="13" ry="26" stroke="#226eaa"/>
+          </g>
+          <g fill="#86549b"><circle cx="122" cy="63" r="5"/><circle cx="316" cy="44" r="3.5"/><circle cx="344" cy="44" r="3.5"/><circle cx="372" cy="44" r="3.5"/><circle cx="316" cy="72" r="3.5"/><circle cx="344" cy="72" r="5"/><circle cx="372" cy="72" r="3.5"/><circle cx="316" cy="100" r="3.5"/><circle cx="344" cy="100" r="3.5"/><circle cx="372" cy="100" r="3.5"/><circle cx="109" cy="156" r="5"/><circle cx="142" cy="177" r="5"/><circle cx="382" cy="149" r="5"/></g>
+          <g font-family="Georgia,serif" font-size="20" text-anchor="middle" fill="#526657"><text x="238" y="80">≅</text><text x="238" y="185">≅</text><text x="132" y="184">×</text></g>
+        </svg>
+      </div>
+      <div class="topic-copy">
+        <span class="eyebrow">Follow the same point</span>
+        <h2 id="torus-title">Four descriptions of the torus</h2>
+        <p>Explore linked coordinates in a square, a tiled plane, a product of circles, and a torus in three dimensions.</p>
+        <p class="details">Linked points · Coordinate loops · Circle of revolution</p>
+        <span class="open">Open visualisations <span aria-hidden="true">→</span></span>
+      </div>
+    </a>
+  </nav>
+</main>
+</body>
+</html>
